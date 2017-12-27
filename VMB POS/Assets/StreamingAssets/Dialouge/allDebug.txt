@@ -1,0 +1,32 @@
+﻿N#"Welcome."#-1
+F#Play_Music#0
+00_Miyuki#"Welcome"#0
+01_Mizuo#"Welcome"#0
+N#"I am Narator."#-1
+00_Miyuki#"I'm Miyuki"#0
+01_Mizuo#"I'm Mizuo"#0
+00_Miyuki#"We're currently trying out a new system for our way of communication."#0
+N#"Like this."#-1
+01_Mizuo#"Rest assured, this will not take too long."#0
+00_Miyuki#"While we're waiting, why don't we play something?"#0
+N#"Miyuki is inviting you to play with her."#0
+00_Miyuki#"What should we play, I wonder..."#0
+00_Miyuki#"Ah, I got one. Let's play Shiritori."#0
+F#Selection#2
+S#"That would be fun."#18
+S#"Nope"#22
+00_Miyuki#"Great. How about you Mizuo?"#0
+01_Mizuo#"Sure, I'll play."#0
+00_Miyuki#"Yay"#0
+F#Jump_to_Line#26
+00_Miyuki#"Awh, why not?"#0
+01_Mizuo#"You know you really got nothing to do right?"#0
+01_Mizuo#"Unless ofcourse, you want to die."#0
+F#Jump_to_Line#29
+N#"And so, the three of you decided to play Shiritori together."#-1
+N#"It was fun."#-1
+F#Jump_to_Line#32
+N#"You decided not to play Shiritori together."#-1
+N#"And you died."#-1
+F#Jump_to_Line#32
+N#"The End"#-1

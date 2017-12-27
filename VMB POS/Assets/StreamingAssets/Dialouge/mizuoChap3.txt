@@ -1,0 +1,170 @@
+NULL#After I arrive in my place, I just keep thinking about the cafe.#-1
+NULL#Cafe Lajoie...#-1
+NULL#Only today I learnt that they are closing.#-1
+NULL#It's all because they haven't got a lot of customers.#-1
+NULL#...#-1
+NULL#I want to help them.#-1
+NULL#I want to help so bad, yet...#-1
+NULL#I don't know what to do.#-1
+NULL#...#-1
+NULL#"No, thinking about it too much won't solve things."#-1
+NULL#"I'll do what I can to help them."#-1
+NULL#First, I'll blog a post about the cafe in my personal blog and my social media.#-1
+NULL#And then I'll tell my IRL friends.#-1
+NULL#I may not have a lot of them, but I know them so well, this might work.#-1
+NULL#That's pretty much what I can do.#-1
+NULL#...#-1
+NULL#I'd want to go there again, but...#-1
+01_Mizuo#"You might want to stop coming here."#2
+NULL#...#-1
+NULL#All I can do now is wait.#-1
+NULL#Until the universe do its things...#-1
+NULL#Until I have the courage to go there again...#-1
+NULL#...#-1
+F#Fade_BG#1
+NULL#2 Months later...#-1
+NULL#Here I am again, at the shopping district.#-1
+NULL#After a long time, I decided visit the cafe again.#0
+NULL#I could have come earlier, but it took me time to build up my courage to go there.#0
+NULL#I hope they haven't close.#0
+NULL#...#0
+NULL#When I arrive at the place I'm heading to, I saw it in front of my place.#0
+NULL#"Cafe Lajoie..."#0
+NULL#I felt a weight in my shoulder lifted of.#0
+NULL#I'm so glad they haven't close yet.#0
+NULL#...#0
+NULL#What am I waiting for? Let's go inside.#0
+F#Fade_BG#0
+F#Play_Music#0
+NULL#The cafe have become more crowded.#-1
+NULL#People has started to come here.#-1
+NULL#This once lonely place have become much more lively.#-1
+NULL#Empty seats turned into occupied ones, silence turned into chatter from across the room.#-1
+NULL#I felt out of place, but perhaps this is for the better.#-1
+NULL#"Welcome to Cafe Lajoie"#-1
+NULL#A waiteress greets you.#0
+NULL#An unfamiliar face, wearing clothes usually worn by waiteress.#-1
+NULL#No more chef serving food to the customer again, huh?#-1
+NULL#...#-1
+NULL#As I walk inside trying to get a seat, I realize there's not a lot of empty chairs.#0
+NULL#The ones that are available are the only ones around the farthest corner of the cafe.#0
+NULL#"Well, better than nothing I guess..."#0
+NULL#And so I sit at the only available seat there is.#0
+NULL#The waitress from earlier handed menu the menu.#0
+NULL#...#0
+NULL#The foods they serve are the same like the last time I were here.#0
+NULL#How could they stay in business by only serving so little option?#0
+NULL#...#0
+NULL#At this point I don't even think about what I wanted to eat.#0
+NULL#So I decided the waitress to decide it for me.#0
+NULL#A food and a drink, that's all I want.#0
+NULL#After writing my order, the waitress leave me and headed to the window near the cashier.#0
+NULL#In there she handed over the order to the chef there.#0
+01_Mizuo#"..."#2
+NULL#And there he is, working in the kitchen.#0
+NULL#I felt a sudden rush of blood running through my head.#0
+NULL#Excitement would be the best description.#0
+NULL#Why am I feeling like this?#0
+01_Mizuo#"..."#1
+NULL#He noticed me.#-1
+NULL#I subconsciously turn my head around, trying to block my face from his sight.#-1
+NULL#Wait, why am I doing this?#-1
+NULL#No, maybe he didn't notice me, and I'm just being to self-conscious.#-1
+NULL#And so, I turn my head back again to a normal position.#-1
+01_Mizuo#"..."#9
+NULL#Oh no, he totally noticed me!#-1
+NULL#I cover my face with my hand.#-1
+NULL#What in the world am I doing?#-1
+NULL#I can feel my head starting to boil.#-1
+NULL#If I let go of my face, I could imagine how red is my face right now.#-1
+NULL#God, please make it stop.#-1
+F#Fade_BG#-1
+NULL#After calming myself down, I wait for my food to come.#-1
+NULL#...#0
+NULL#Calming myself....#-1
+NULL#...#0
+NULL#Calm...#-1
+01_Mizuo#"..."#8
+NULL#No, this is not working at all!#0
+NULL#Someone, save me~~~!#0
+01_Mizuo#"Hey."#8
+F#Fade_BG#0
+NULL#...#0
+01_Mizuo#"You're as lively as ever."#8
+NULL#...#0
+NULL#Hwe!?#0
+NULL#He's here, I can't believe it.#0
+NULL#Standing beside me, just like many months ago.#0
+NULL#But wait, how could he leave the kitchen when there's so many people's dining here?#0
+NULL#It would have been difficult for himm to do so.#0
+01_Mizuo#"You might be wondering how I'm able to go out to meet you when there's a lot of people here."#1
+01_Mizuo#"Well..."#2
+01_Mizuo#"Let's just say I have the privilage to do so."#9
+NULL#...#0
+NULL#There he go again, reading my thoughts.#0
+NULL#Usually I would get mad when people do that to me.#0
+NULL#But now...#0
+NULL#I'm just happy I could finally meet with him again.#0
+01_Mizuo#"Mind if I sit down here?"#8
+01_Mizuo#"Oh yeah, here's your food anyway."#8
+NULL#Replying with a smile, I nodded to Mizuo so he can take a seat.#-1
+NULL#Only after setting up my food he sit in front of me.#-1
+NULL#...#0
+01_Mizuo#"..."#8
+NULL#It turned awkwardly silent.#-1
+NULL#After waiting for so long time, I couldn't speak out a single word to him.#-1
+NULL#I'm too nervous to say a thing.#-1
+01_Mizuo#"Hey."#2
+01_Mizuo#"You might want to eat your food before it gets cold."#1
+NULL#...#-1
+NULL#To be honest, I'm not that hungry right now.#-1
+NULL#The reason I come here in first place was to find out if this cafe is still running.#-1
+NULL#Above that, all I really want is to meet with Mizuo.#-1
+01_Mizuo#"..."#1
+NULL#At first, I still feel a bit of hunger in me.#0
+NULL#But now that I have met with him, my hunger has gone completely.#0
+01_Mizuo#"..."#1
+NULL#...#0
+01_Mizuo#"..."#8
+01_Mizuo#"I think I know what you want."#8
+01_Mizuo#"Here, let me..."#8
+NULL#He pulls my food towards him.#0
+F#Selection#1
+S#"Wait, what are you doing?"#134
+F#Play_Music#-1
+01_Mizuo#"Hold on a sec."#8
+NULL#Mizuo take a spoon from my plate...#-1
+F#Fade_BG#-1
+F#Fade_BG#4
+F#Play_Music#2
+NULL#...and then puts it forward to my face.#-1
+01_Mizuo#"There, eat up."#0
+NULL#Now he's feeding me with the food I ordered.#-1
+NULL#It's so delicious.#-1
+NULL#Like something I've never eaten before.#-1
+NULL#Maybe it's because I was being fed to.#-1
+01_Mizuo#"How was it? Is it good?"#0
+NULL#I nodded as a way of giving approval to how good the food was.#-1
+01_Mizuo#"Great to hear that."#0
+01_Mizuo#"..."#0
+01_Mizuo#"Hey."#0
+01_Mizuo#"I never got a chance to say it to you."#0
+01_Mizuo#"Thank you, for everything."#0
+01_Mizuo#"For helping us this far."#0
+01_Mizuo#"We are very greatful."#0
+NULL#With a smile, he gave me another spoon for me to eat.#-1
+NULL#I smile back everytime he puts a spoonful of food into my mouth.#-1
+NULL#Maybe it's because I was being fed to.#-1
+NULL#...#-1
+NULL#What ever may be the reason.#-1
+NULL#All I care right now is that I'm happy now.#-1
+NULL#I could spend time together again.#-1
+NULL#This day will be a very precious day for me.#-1
+NULL#Not only for now...#-1
+NULL#Forever...#-1
+NULL#MIZUO END#-1
+F#Play_Clip_No_Wait#0
+NULL#"CG has been unlocked"#-1
+CCG#RewardArray#5
+CCG#CGArray#1
+F#Change_Scene_No_Pref#1

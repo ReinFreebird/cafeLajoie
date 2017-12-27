@@ -1,0 +1,43 @@
+﻿NULL#"Dear Father"#-1
+NULL#"I know your probably surprised to find me writing this letter to you."#-1
+NULL#"You would be more surprised that anyone still use letters to communicate in these days and age."#-1
+NULL#"I know I could have text you something or send you mail via web..."#-1
+NULL#"... not that we often exchange words in the first place."#-1
+NULL#"In fact, perhaps that's the main reason I decided to write you this."#-1
+NULL#"How's Mom? I hope she's doing all right."#-1
+NULL#"..."#-1
+F#Play_Music#3
+NULL#"Do you remember four years ago, when Grandma just passed away?"#-1
+NULL#"It was one of the toughest periods of my life."#-1
+NULL#"Mom and the other were there, mourning for a whole day."#-1
+NULL#"Not you..."#-1
+NULL#"You didn't even bother to come, showing up only one month later when everthing's said and done."#-1
+NULL#"You were on a very important business trip, you said."#-1
+NULL#"So important that you didn't have time to mourn your now passed mother?"#-1
+NULL#"I couldn't comprehend how you were able to do so."#-1
+NULL#"Even now I'm still strugling to get it."#-1
+NULL#"Though recently, I'm beginning to understand."#-1
+NULL#"..."#-1
+NULL#"You know pretty well about my decision to get out of home and start living by myself."#-1
+NULL#"I mean, for once you were there, weren't you?."#-1
+NULL#"You always hoped I would start working for the company you ran when I finished highschool."#-1
+NULL#"You kindly enough to secure me a job at an entry job position."#-1
+NULL#"You hoped that I'd comply obediently."#-1
+NULL#"Unfortunately, I rejected."#-1
+NULL#"I just couldn't see myself working with, let alone under you."#-1
+NULL#"Not after all those time you put me and Mom through."#-1
+NULL#"You expect me be there for you, when all you cared was your company and how much money it worth."#-1
+NULL#"You saw me only as a way to get cheap labor for your workforce."#-1
+NULL#"Worst of all, you didn't even tell me until I have already decided on what to do with my live."#-1
+NULL#"To your disapproval, I walk out of the door to start my on live."#-1
+NULL#"I was ."#-1
+F#Fade_BG#1
+NULL#I must be honest, starting a new cafe by yourself is not an easy task.#-1
+NULL#Not only you have to prepare the concept of the place, there are other stuff you have to take care of too.#-1
+NULL#Space leasing, paperworks, administrative things, etc.#-1
+NULL#It was a tough first weeks of opening.#-1
+NULL#It has been been a tough weeks, months even.#-1
+NULL#We almost had to close business for good.#-1
+00_Miyuki#"Master~~~"#0
+NULL#From afar, I heard a familiar voice calling out to me.#-1
+01_Mizuo#"Welcome"#1

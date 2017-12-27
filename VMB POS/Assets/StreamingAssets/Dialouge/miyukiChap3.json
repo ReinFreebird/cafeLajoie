@@ -1,0 +1,1059 @@
+[
+   {
+      "lineIndex":1,
+      "id":"NULL",
+      "line":"After you heard the news about the cafe closing, you tried to help them.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":2,
+      "id":"NULL",
+      "line":"Realisticly, there's not much you can do.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":3,
+      "id":"NULL",
+      "line":"You can't save them by becoming their new shareholder, or taking over as their new manager here",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":4,
+      "id":"NULL",
+      "line":"Even by doing so, you don't have the skill to run a failing restaurant",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":5,
+      "id":"NULL",
+      "line":"All you did was tell your coleagues about this place.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":6,
+      "id":"NULL",
+      "line":"By turn, your coleagues tell it over to their other coleagues.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":7,
+      "id":"NULL",
+      "line":"See the patterns here?",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":8,
+      "id":"NULL",
+      "line":"And now... two months later after that faithful day.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":9,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"0",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":10,
+      "id":"F",
+      "line":"Play_Music",
+      "parameter":"0",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":11,
+      "id":"NULL",
+      "line":"The cafe have become more crowded.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":12,
+      "id":"NULL",
+      "line":"People has started to come here.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":13,
+      "id":"NULL",
+      "line":"This once lonely place have become much more lively.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":14,
+      "id":"NULL",
+      "line":"Peoples who come here are predominantly workers like yourself, followed by families.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":15,
+      "id":"NULL",
+      "line":"The cafe is now able to employ more waiter and waitress, as you see half a dozen of unfamiliar face wearing the outfit.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":16,
+      "id":"NULL",
+      "line":"Speaking of work...",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":17,
+      "id":"NULL",
+      "line":"You remembered that you just had a promotion at your working place earlier this month.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":18,
+      "id":"NULL",
+      "line":"Promotion means higher salary.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":19,
+      "id":"NULL",
+      "line":"Now, you can come here more often, becoming a regular basically.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":20,
+      "id":"NULL",
+      "line":"\"Welcome to Cafe Lajoie\"",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":21,
+      "id":"NULL",
+      "line":"A waiteress greets you.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":22,
+      "id":"NULL",
+      "line":"As you see, it's not that waitress you met two months ago.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":23,
+      "id":"NULL",
+      "line":"Maybe she quit?",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":24,
+      "id":"NULL",
+      "line":"...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":25,
+      "id":"NULL",
+      "line":"As you walk inside trying to get a sit, you realize there's not a lot of empty chairs",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":26,
+      "id":"NULL",
+      "line":"In fact, you haven't crossed any available seat seat ",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":27,
+      "id":"NULL",
+      "line":"You walk around a little more looking for a place to sit",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":28,
+      "id":"NULL",
+      "line":"And there you found one seat.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":29,
+      "id":"NULL",
+      "line":"...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":30,
+      "id":"NULL",
+      "line":"It's the very seat you seat many months ago.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":31,
+      "id":"NULL",
+      "line":"\"Could it really be a coincidence?\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":32,
+      "id":"NULL",
+      "line":"You sit on the chair, as the waitress from earlier handed you the menu.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":33,
+      "id":"NULL",
+      "line":"...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":34,
+      "id":"NULL",
+      "line":"The foods they serve are the same like the last time you were here.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":35,
+      "id":"NULL",
+      "line":"How could they stay in business by only serving so little option?",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":36,
+      "id":"NULL",
+      "line":"...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":37,
+      "id":"NULL",
+      "line":"At this point you don't really care what you order.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":38,
+      "id":"NULL",
+      "line":"You came here today not because you really want to eat.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":39,
+      "id":"NULL",
+      "line":"Truth be told, all you want was to meet her, after all this time.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":40,
+      "id":"NULL",
+      "line":"...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":41,
+      "id":"NULL",
+      "line":"Still, so far you have not seen her yet.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":42,
+      "id":"NULL",
+      "line":"And so, you can only wait for you food to come.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":43,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"-1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":44,
+      "id":"NULL",
+      "line":"...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":45,
+      "id":"NULL",
+      "line":"\"Why can't I stop thinking about her?\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":46,
+      "id":"NULL",
+      "line":"You start day dreaming.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":47,
+      "id":"Miyuki",
+      "line":"\"Thank you for waiting.\"",
+      "parameter":"4",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":48,
+      "id":"NULL",
+      "line":"Her long blonde hair, her blue eyes.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":49,
+      "id":"NULL",
+      "line":"It mesmerized you somehow.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":50,
+      "id":"NULL",
+      "line":"Most importantly, her smile.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":51,
+      "id":"NULL",
+      "line":"You felt joy just just seeing her smile.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":52,
+      "id":"Miyuki",
+      "line":"\"Here's your food.\"",
+      "parameter":"3",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":53,
+      "id":"NULL",
+      "line":"Even in your day dream, it still give you that sense of pleasure.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":54,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"0",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":55,
+      "id":"NULL",
+      "line":"...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":56,
+      "id":"Miyuki",
+      "line":"\"...\"",
+      "parameter":"3",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":57,
+      "id":"NULL",
+      "line":"You felt goose bumped when you realize it's her who deliver your food.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":58,
+      "id":"NULL",
+      "line":"It's not a dream, she still work here.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":59,
+      "id":"Miyuki",
+      "line":"\"How is your day so far? It's been a while.\"",
+      "parameter":"4",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":60,
+      "id":"NULL",
+      "line":"Word can't begin to express what you felt.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":61,
+      "id":"NULL",
+      "line":"In fact, you are speechless, that you can't even speak right now.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":62,
+      "id":"Miyuki",
+      "line":"\"Can I sit with you?.",
+      "parameter":"2",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":63,
+      "id":"NULL",
+      "line":"You didn't decline.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":64,
+      "id":"NULL",
+      "line":"Because of course, you wanted to talk to her in the first place.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":65,
+      "id":"NULL",
+      "line":"...",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":66,
+      "id":"Miyuki",
+      "line":"\"...\"",
+      "parameter":"3",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":67,
+      "id":"NULL",
+      "line":"This is bad, you can't think of any word to say.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":68,
+      "id":"NULL",
+      "line":"Come on, think of something to say.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":69,
+      "id":"F",
+      "line":"Selection",
+      "parameter":"5",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":70,
+      "id":"S",
+      "line":"\"How are you doing?\"",
+      "parameter":"75",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":71,
+      "id":"S",
+      "line":"\"The food looks nice\"",
+      "parameter":"77",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":72,
+      "id":"S",
+      "line":"\"There's a lot of people now\"",
+      "parameter":"79",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":73,
+      "id":"S",
+      "line":"\"About last time...\"",
+      "parameter":"81",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":74,
+      "id":"S",
+      "line":"\"...\"",
+      "parameter":"82",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":75,
+      "id":"Miyuki",
+      "line":"\"I'm feeling great, thank you.\"",
+      "parameter":"3",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":76,
+      "id":"F",
+      "line":"Skip_to_Line",
+      "parameter":"82",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":77,
+      "id":"Miyuki",
+      "line":"\"Yes it is.\"",
+      "parameter":"3",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":78,
+      "id":"F",
+      "line":"Skip_to_Line",
+      "parameter":"82",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":79,
+      "id":"Miyuki",
+      "line":"\"I know right?\"",
+      "parameter":"3",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":80,
+      "id":"F",
+      "line":"Skip_to_Line",
+      "parameter":"82",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":81,
+      "id":"Miyuki",
+      "line":"\"...\"",
+      "parameter":"3",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":82,
+      "id":"NULL",
+      "line":"She smiles at you.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":83,
+      "id":"Miyuki",
+      "line":"\"What are you waiting for? the food will get cold if you don't eat it.\"",
+      "parameter":"2",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":84,
+      "id":"NULL",
+      "line":"\"Awh, right...\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":85,
+      "id":"NULL",
+      "line":"And so, you eat your food.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":86,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"-1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":87,
+      "id":"NULL",
+      "line":"...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":88,
+      "id":"NULL",
+      "line":"It's delicious, a whole lot more than you expected.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":89,
+      "id":"NULL",
+      "line":"You don't remember the food here was this delicious.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":90,
+      "id":"NULL",
+      "line":"Perhaps it's because you haven't come here for a while.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":91,
+      "id":"NULL",
+      "line":"Or maybe because the a new chef, or rather a whole new kitchen crew",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":92,
+      "id":"Miyuki",
+      "line":"\"...\"",
+      "parameter":"3",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":93,
+      "id":"NULL",
+      "line":"Or perhaps, it's something else...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":94,
+      "id":"NULL",
+      "line":"...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":95,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"0",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":96,
+      "id":"NULL",
+      "line":"You just finished your food.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":97,
+      "id":"NULL",
+      "line":"It was delicious to the very last bite.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":98,
+      "id":"NULL",
+      "line":"It surpass anything you eaten so far in tastefulness.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":99,
+      "id":"Miyuki",
+      "line":"\"Oh my\"",
+      "parameter":"4",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":100,
+      "id":"Miyuki",
+      "line":"\"Looks like you really enjoyed your food\"",
+      "parameter":"2",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":101,
+      "id":"Miyuki",
+      "line":"\"So much so, there's some left over in your cheek\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":102,
+      "id":"NULL",
+      "line":"The waitress pointed a finger toward your face.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":103,
+      "id":"NULL",
+      "line":"It appears you missed some food in your face.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":104,
+      "id":"Miyuki",
+      "line":"\"Stay there, don't move your face\"",
+      "parameter":"4",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":105,
+      "id":"F",
+      "line":"Selection",
+      "parameter":"1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":106,
+      "id":"S",
+      "line":"\"Wait, what are you doing?\"",
+      "parameter":"107",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":107,
+      "id":"Miyuki",
+      "line":"\"Hold on, let me...\"",
+      "parameter":"4",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":108,
+      "id":"F",
+      "line":"Play_Music",
+      "parameter":"-1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":109,
+      "id":"NULL",
+      "line":"The waitress lean her body towards you.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":110,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"-1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":111,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"3",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":112,
+      "id":"F",
+      "line":"Play_Music",
+      "parameter":"2",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":113,
+      "id":"NULL",
+      "line":"With a handkerchief she wiped your cheek.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":114,
+      "id":"Miyuki",
+      "line":"\"There you go, all done\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":115,
+      "id":"Miyuki",
+      "line":"\"It was really delicious, wasn't it?\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":116,
+      "id":"NULL",
+      "line":"You see her smile as she pull her hand back.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":117,
+      "id":"NULL",
+      "line":"A very gentle, lovely, bright smile.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":118,
+      "id":"NULL",
+      "line":"...",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":119,
+      "id":"Miyuki",
+      "line":"\"Hey, I haven't a the chance to say it to you.\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":120,
+      "id":"Miyuki",
+      "line":"\"Thank you, for everything.\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":121,
+      "id":"Miyuki",
+      "line":"\"...\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":122,
+      "id":"NULL",
+      "line":"\"...\"",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":123,
+      "id":"NULL",
+      "line":"The both of you exchanged smile, not a single word spoken.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":124,
+      "id":"NULL",
+      "line":"You spent the rest of the afternoon talking to each other.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":125,
+      "id":"NULL",
+      "line":"You, with the waitress of Cafe Lajoie...",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":126,
+      "id":"NULL",
+      "line":"...Whom you still not now her name yet.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":127,
+      "id":"Miyuki",
+      "line":"\"...\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":128,
+      "id":"NULL",
+      "line":"...",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":129,
+      "id":"F",
+      "line":"Play_Music",
+      "parameter":"-1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":130,
+      "id":"NULL",
+      "line":"\"Hah! Who am I kidding? Ofcourse you knew already.\" ",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":131,
+      "id":"NULL",
+      "line":"\"Her name is Miyuki.\" ",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":132,
+      "id":"NULL",
+      "line":"\"Surely you realized by now everytime she speaks you can see her name above this window right?\" ",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":133,
+      "id":"NULL",
+      "line":"\"Her name was in the main menu too.\" ",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":134,
+      "id":"NULL",
+      "line":"\"It's humanly imposible for you to miss it.\" ",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":135,
+      "id":"NULL",
+      "line":"\"Right, Player-san?\" ",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":136,
+      "id":"NULL",
+      "line":"\"...\" ",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":137,
+      "id":"NULL",
+      "line":"\"Anyways...\" ",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":138,
+      "id":"NULL",
+      "line":"\"This is the developer speaking\" ",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":139,
+      "id":"NULL",
+      "line":"\"This is the end of Cafe Lajoie v. 0.1\" ",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":140,
+      "id":"NULL",
+      "line":"\"Credits to my Friends, Leoni for her work on the Character Sprites and CG(+ Dialouge background) \" ",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":141,
+      "id":"NULL",
+      "line":"\"Mahendra for helping me with the story, Christian for the menu layout and buttons, my sister for coloring the character sprites\" ",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":142,
+      "id":"NULL",
+      "line":"\"Music made by Kevin MacLeod(Main theme and Miyuki's theme), ReinFreebird (Others)\" ",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":143,
+      "id":"NULL",
+      "line":"\"Backround are made by Uncle Mugen (Mostly)\" ",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":144,
+      "id":"NULL",
+      "line":"\"And the other resource I wasn't able to put credits on.\" ",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":145,
+      "id":"NULL",
+      "line":"\"Last, but not least, thank you to you, Player-san.\" ",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":146,
+      "id":"NULL",
+      "line":"\"See you in the next update.\" ",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":147,
+      "id":"F",
+      "line":"Play_Clip_No_Wait",
+      "parameter":"0",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":148,
+      "id":"NULL",
+      "line":"\"Also, you have unlocked a CG and a Reward. Make sure to check those out\"",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":149,
+      "id":"CCG",
+      "line":"RewardArray",
+      "parameter":"2",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":150,
+      "id":"CCG",
+      "line":"CGArray",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":151,
+      "id":"F",
+      "line":"Change_Scene_No_Pref",
+      "parameter":"1",
+      "functionTrue":true
+   }
+]

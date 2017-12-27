@@ -1,0 +1,212 @@
+NULL#"Welcome."#-1
+NULL#"You are currently playing Cafe Lajoie ver.0.1.2 demo edition."#-1
+NULL#"Yes, it is still a demo version."#-1
+NULL#"Progress has been tough these last months, and further development will prove to be a hard one."#-1
+NULL#"Since we do not want to keep you waiting until the full release..."#-1
+NULL#"As a freebees, we are giving you a small taste of what to come"#-1
+NULL#"Without further a do, please enjoy your time at Cafe Lajoie. Signed Rein Freebird"#-1
+NULL##-1
+F#Fade_BG#0
+F#Play_Music#0
+00_Miyuki#"Welcome"#1
+01_Mizuo#"Welcome"#1
+01_Mizuo#"Ah, a new face. Is this your first time coming here?"#1
+F#Selection#2
+S#"Yes"#17
+S#"Kinda"#23
+00_Miyuki#"Ah, right. I have never seen you before."#2
+00_Miyuki#"Yay, we got a new customer."#1
+00_Miyuki#"Celebration... DANCE!!"#9
+01_Mizuo#"..."#5
+01_Mizuo#"Pardon my coleague, she tends to get over excited at times."#2
+F#Jump_to_Line#30
+01_Mizuo#"Kinda?"#1
+01_Mizuo#"Ah, perhaps we weren't here when you came by."#2
+01_Mizuo#"What about you, Miyuki? Something came in mind"#1
+00_Miyuki#"Yeah, i've seen you here before..."#2
+00_Miyuki#"..I think."#3
+01_Mizuo#"You think...?"#5
+01_Mizuo#"Well, whatever"#3
+01_Mizuo#"Any how, that you are here somehow, there's something important the I need to tell you."#1
+01_Mizuo#"Sadly to say, we are currently not open for business, therefore we can't take your order yet."#3
+00_Miyuki#"We're sorry, you took your time to get here."#5
+00_Miyuki#"We understand if you are dissapointed."#5
+01_Mizuo#"That being said, it's okay if you want to go back now."#1
+01_Mizuo#"Or if you want to, you can stay here for a while. You might found out what you want to do later."#1
+00_Miyuki#"Hey, that's a great idea."#4
+00_Miyuki#"We can talk about things, play some games, and maybe do things more than that."#4
+01_Mizuo#"What do you say? Stay with us for a while, we'll make it worth a while for you"#3
+F#Selection#2
+S#"Sure"#47
+S#"Maybe next time"#42
+01_Mizuo#"Ah, is that so..."#3
+01_Mizuo#"Oh well, I guess we'll see you later."#2
+00_Miyuki#"Come back again."#7
+NULL#And so, you leave Cafe Lajoie#-1
+F#Change_Scene_No_Pref#0
+01_Mizuo#"Ah, great then."#1
+00_Miyuki#"Yeay, It's going to be a lot of fun."#1
+01_Mizuo#"Hm... What should we do I wonder"#2
+00_Miyuki#"I know, let's have a chat for a bit."#3
+00_Miyuki#"Then we can play something together."#1
+01_Mizuo#"Well, I'm okay with anything."#2
+01_Mizuo#"Ah, I almost forgot."#3
+01_Mizuo#"We haven't introduced ourselves right?."#1
+00_Miyuki#"Let me do it first."#4
+00_Miyuki#"Hi, I'm Miyuki. Nice to meet you."#3
+01_Mizuo#"Well, I'm Mizuo. Pleasure's mine."#2
+00_Miyuki#"Well, what do you want to talk about?"#2
+F#Selection#5
+S#Talk about Cafe Lajoie#65
+S#Talk about the games#75
+S#Talk with Miyuki#81
+S#Talk with Mizuo#113
+S#Let's play#144
+01_Mizuo#"Well, Cafe Lajoie is a cafe, if I couldn't be more obvious."#2
+01_Mizuo#"Though we call it a cafe, it's more of a family restaurant really."#1
+00_Miyuki#"We serve customers with our home-made style food, giving the feeling at home."#2
+00_Miyuki#"Stuffed stomach and a smile on your face, that's our priorities"#1
+00_Miyuki#"We've only opened just recently, so we're pretty new here"#2
+00_Miyuki#"Even so, we're ready to serve you."#1
+01_Mizuo#"That on normal ocassion, we're not serving today."#2
+01_Mizuo#"I personally don't know when we'll be able to start serving, I hope it start as soon as possible."#1
+00_Miyuki#"Yeah, I can't wait too."#3
+F#Jump_to_Line#59
+01_Mizuo#"Oh yeah, we did mention about a game earlier."#2
+01_Mizuo#"Don't want to tell you a whole lot, we'll tell about it after we finish our chat."#1
+00_Miyuki#"Basically, besides eating you can also play game here."#2
+00_Miyuki#"What kind of game?"#2
+00_Miyuki#"Just wait until we finish our talking"#1
+F#Jump_to_Line#59
+00_Miyuki#"Ah, what do you want to know about me?"#2
+F#Selection#4
+S#What you do#87
+S#Things you like#95
+S#Your sizes...#101
+S#Back#111
+00_Miyuki#"I work here, as a maid."#3
+00_Miyuki#"Outside of that, I'm also a high school student."#3
+00_Miyuki#"I still haven't decide what will I do after graduation."#2
+00_Miyuki#"I could try applying for university."#2
+00_Miyuki#"I could continue working here."#2
+00_Miyuki#"I could even do both."#1
+00_Miyuki#"Which ever I choose, I'll be fine."#1
+F#Jump_to_Line#82
+00_Miyuki#"What I like? Hm..."#2
+00_Miyuki#"I like to draw a lot."#3
+00_Miyuki#"I also write as a hobby."#2
+00_Miyuki#"My favorite foods are chocolate and cupcakes. For my drink I like milkshake of any flavor."#2
+00_Miyuki#"That's about all"#2
+F#Jump_to_Line#82
+00_Miyuki#"Hahaha..."#1
+00_Miyuki#"I see you're curious of my numbers."#8
+00_Miyuki#"I haven't have it measured for a while."#8
+00_Miyuki#"Wonder if any number jump out a lot."#8
+00_Miyuki#"Would you want to measure it for me?"#8
+01_Mizuo#"..."#2
+00_Miyuki#"No, ofcourse you won't."#2
+00_Miyuki#"It would be considered sexual harasement."#3
+00_Miyuki#"You wouldn't want the cops to come would you?"#8
+F#Jump_to_Line#82
+00_Miyuki#"Well, what do you want to talk about?"#2
+F#Jump_to_Line#59
+01_Mizuo#"Hm... something you want to ask?"#1
+F#Selection#4
+S#What you do#119
+S#Things you like#126
+S#Your number#132
+S#Back#142
+01_Mizuo#"I work here as a chef, if you couldn't figure out by my clothes yet."#1
+01_Mizuo#"Outside I'm a student at University, studying Computer Science."#1
+01_Mizuo#"Right now I'm taking a break from university, something came up and I couldn't keep things situated ."#3
+01_Mizuo#"After everything is settled, I took this job to keep my self occupied."#2
+01_Mizuo#"I'm planning to resume my study next year."#1
+01_Mizuo#"So yeah, there you go."#2
+F#Jump_to_Line#114
+01_Mizuo#"What I like?"#1
+01_Mizuo#"If you're talking about food or drinks, I don't have any"#1
+01_Mizuo#"I don't have particular food that I really enjoy."#2
+01_Mizuo#"Same goes to drink."#1
+01_Mizuo#"There just food and drink to me, nothing more."#2
+F#Jump_to_Line#114
+01_Mizuo#"My number?"#1
+01_Mizuo#"Sure."#2
+01_Mizuo#"It's 0812-XXXX5179."#2
+01_Mizuo#"Again..."#1
+01_Mizuo#"XXXX-8012XXXX."#1
+01_Mizuo#"..."#1
+01_Mizuo#"What, you expect me to give it so easily?"#7
+01_Mizuo#"No, you have to work to actually get it."#7
+01_Mizuo#"Don't worry, you can ask as many times as you."#7
+F#Jump_to_Line#114
+01_Mizuo#"Anything else?"#2
+F#Jump_to_Line#59
+00_Miyuki#"Yay, let's play now."#1
+01_Mizuo#"Right, might as well tell you about this now."#2
+01_Mizuo#"We at Cafe Lajoie prioritize ourself on giving the best experience to our customers."#1
+01_Mizuo#"Not only we serve food to our patrons table, we also have game sessions where you can play with one of our employee."#1
+01_Mizuo#"You can play with other customers as well."#1
+00_Miyuki#"Every time you play with us, you'll get points to collect, that you can later trade for something cool."#2
+00_Miyuki#"For every employee you play with, you get to play all different games."#2
+00_Miyuki#"You might be wonder what I meant by that."#2
+01_Mizuo#"To put it simply, the game that you'll play with me will be different from Miyuki's."#2
+00_Miyuki#"My game is a game where we crush candies together."#1
+00_Miyuki#"Although mine we crush foods and drinks instead of candies."#2
+00_Miyuki#"If you like to match things together, you'll love this game."#1
+01_Mizuo#"Well, mine is a card base high and low guessing game."#1
+01_Mizuo#"It's a gambling game, I know. As long as we don't bet on real money, it should be fine."#2
+01_Mizuo#"If you're feeling lucky, why not give it a shot."#1
+00_Miyuki#"So, which one would you want to play with?."#2
+F#Selection#2
+S#Play with Miyuki#163
+S#Play with Mizuo#181
+00_Miyuki#"You want to play with me? Yay"#1
+00_Miyuki#"Come on, let's start"#3
+F#Change_Scene_With_Pref#3
+F#Fade_BG#0
+F#Play_Music#0
+00_Miyuki#"Yay, you finished the game"#1
+00_Miyuki#"How was it, did you like it?"#2
+F#Selection#3
+S#"Yes, it was fun."#174
+S#"It was okay."#176
+S#"I dont quite enjoy it."#178
+00_Miyuki#"Thank you, I'm glad you like it."#3
+F#Jump_to_Line#203
+00_Miyuki#"It was okay? Well, It's not so bad right?"#2
+F#Jump_to_Line#203
+00_Miyuki#"Haha... is that so...?"#7
+01_Mizuo#"..."#5
+F#Jump_to_Line#203
+01_Mizuo#"Ah, playing with me? Sure, let's play right away"#1
+F#Change_Scene_With_Pref#4
+F#Fade_BG#0
+F#Play_Music#0
+01_Mizuo#"Ah, you managed to finished the game."#1
+01_Mizuo#"Good for you"#2
+F#Jump_to_Line#193
+F#Fade_BG#0
+F#Play_Music#0
+01_Mizuo#"Too bad, you went backrupt."#1
+01_Mizuo#"Better luck next time"#7
+00_Miyuki#"..."#3
+01_Mizuo#"How was it, did you enjoyed our game?"#1
+F#Selection#3
+S#"Yes, it was fun."#198
+S#"It was okay."#200
+S#"I dont quite enjoy it."#202
+01_Mizuo#"Ah, glad you like it. Thank you"#2
+F#Jump_to_Line#203
+01_Mizuo#"Okay? Okay then."#2
+F#Jump_to_Line#203
+01_Mizuo#"Is that so? I sincerely apologize."#3
+NULL##0
+01_Mizuo#"Ah, look at the time. It's almost dark already."#2
+01_Mizuo#"As much as I want you to stay longer, I'm afraid I have to ask of you to leave."#1
+01_Mizuo#"It's the restaurant rule, nothing we can do about it"#3
+00_Miyuki#"Thank you for coming today."#1
+00_Miyuki#"It was fun having you here."#2
+00_Miyuki#"See you next time"#1
+NULL#Thank you for playing.#-1
+F#Fade_BG#-1
+F#Change_Scene_No_Pref#0

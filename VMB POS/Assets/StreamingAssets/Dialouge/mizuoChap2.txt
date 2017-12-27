@@ -1,0 +1,287 @@
+NULL#Few days later...#-1
+F#Fade_BG#2
+NULL#I'm looking at clock, and it's already 9 A.M.#0 
+NULL#Usually I'm at my desk working as a receptionist at some small company.#0
+NULL#But today I have the day-off, so I can do anything.#0
+NULL#Wonder what should I do this afternoon.#0
+NULL#I'll probably go out just to have lunch later.#0
+NULL#Where should I eat?#0
+NULL#"..."#0
+NULL#A certain place came up in my mind.#0
+NULL#No, not a place.#0
+NULL#But someone...#0
+NULL#"But... Would he want to see me again now?"#0
+NULL#"He said he's looking forward to see me again."#0
+NULL#"Even though, I'm not sure what to do today..."#0
+NULL#Wait, what am I thinking? What does he had to do with this?#0
+NULL#Seriously, what is wrong with me?#0
+NULL#"..."#0
+NULL#"Should I go to cafe or not?"#0
+F#Selection#2
+S#"Yes"#50
+S#"Not now."#23
+NULL#I just remember that I must take care of something at my place.#0
+NULL#I can't go out today, I'll just order something and have them delivered here for lunch.#0
+NULL#"Yeah, that should be fine."#0
+NULL#And so I decided to stay at my place, doing things I was suppose to be doing.#0
+NULL#...#0
+F#Fade_BG#-1
+NULL#2 Months Later...#0
+NULL#I decided visit the cafe again.#0
+NULL#It's been a while since I go there.#0
+NULL#Many people on the way to go there now.#0
+NULL#"Maybe the cafe became famous somehow."#0
+NULL#I try to walk toward the entrance with a bit of effort.#0
+NULL#It's hard to get through this amount of peoples standing.#0
+NULL#And when I get there...#0
+F#Play_Music#1
+NULL#Goosebumped, feeling that's so weird I can't even explain.#0
+NULL#I realize the cafe had been replaced with new building.#0
+NULL#My feet started to feel so heavy.#0
+NULL#It's like the ground is trying to pull me down.#0
+NULL#I gave in as the weight becoming too much for me to handle.#0
+NULL#The Cafe, 'Cafe Lajoie', is no more...#0
+NULL#Why does it has to close like this?#0
+NULL#How come did I not know what happened?#0
+NULL#Is there any way...?#0
+NULL#I could fix it?#0
+NULL#BAD END#0
+F#Change_Scene_No_Pref#1
+NULL#At heart, I'm not even too sure about this.#0
+NULL#I want to see him again.#0
+NULL#I just don't understand why.#0
+NULL#Could this be...?#0
+NULL#"..."#0
+NULL#And so I get myself ready to go outside#0
+F#Fade_BG#-1
+NULL#Next stop, the Shopping District.#0
+F#Fade_BG#1
+NULL#Without hesitation, I walked straight to the cafe.#0
+F#Fade_BG#0
+F#Play_Clip#1
+F#Play_Music#0
+01_Mizuo#"Welcome."#2
+NULL#A familiar face greets me as I entered the cafe.#0
+01_Mizuo#"Ah, it's you, welcome back."#1
+NULL#Even though I only came once here, he seem to recognize.#0
+NULL#I was afraid he wasn't going to welcome me let alone remember me.#0
+01_Mizuo#"Come, let me take you to your seat."#3
+NULL#Willingly I allowed him to take me to my seat.#-1
+NULL#I said nothing about it.#-1
+NULL#I was expecting it.#-1
+NULL#As I sit at the chair I was lead to, he handed me the menu just like last time I was here.#0
+01_Mizuo#"Here you go."#1
+01_Mizuo#"Call me when you're ready to order."#2
+NULL#Just like last time, he left me and and stands waiting for me near the cashier.#-1
+NULL#I open up the menu.#0
+NULL#...#0
+NULL#All I saw was the same list of food and drink just like before.#0
+NULL#Why bother giving me the menu then?#0
+01_Mizuo#"..."#3
+NULL#After take a glance at the menu, I call him so he take my order.#-1
+01_Mizuo#"Okay, what will you have today?"#1
+F#Selection#3
+S#"Omellete+ White Coffee"#94
+S#"Fried Rice + Orange Juice"#96
+S#"PANCAAAKE"#87
+01_Mizuo#"..."#3
+01_Mizuo#"You done?"#1
+01_Mizuo#"You might want to order something else, we don't make pancakes just yet."#1
+01_Mizuo#"Besides, you don't want a certain ghost thief to capture you back stabbing, right?"#7
+NULL#Ghost thief? Who in the world is that suppose to be?#0
+NULL#Kidding aside, I think I managed to annoy him somehow.#0
+F#Jump_to_Line#83
+01_Mizuo#"Omelette and White Coffee? Okay."#1
+F#Jump_to_Line#97
+01_Mizuo#"Fried Rice and Orange Juice? Okay."#1
+01_Mizuo#"I'll make your order now, so wait for a moment."#1
+NULL#He left me as soon has he finished writing the order I made.#-1
+NULL#Just like before...#-1
+NULL#I open my phone in effort to pre occupy myself.#0
+F#Fade_BG#-1
+NULL#And so I wait...#0
+NULL#Just like before...#-1
+NULL#...#0
+F#Fade_BG#0
+01_Mizuo#"Thank you for waiting."#1
+01_Mizuo#"Here's your food."#1
+NULL#It didn't took him long to bring my food to the table, and set it up afterward#0
+01_Mizuo#"Enjoy the food while it still hot."#1
+NULL#Then, I started eating the food.#-1
+F#Fade_BG#-1
+NULL#But somehow...#0
+F#Play_Music#-1
+NULL#It didn't taste as good as before.#0
+NULL#I don't know what happened.#0
+NULL#Could it be just me?#0
+NULL#...#0
+NULL#Nevertheless, I continue eating, and without realizing it, I finished the food.#0
+NULL#It felt weird, eating like this.#0
+NULL#I don't know what's wrong with me.#0
+NULL#Am I...#0
+NULL#Dissapointed...?#0
+01_Mizuo#"Hey..."#1
+F#Fade_BG#0
+01_Mizuo#"You all right?"#1
+F#Play_Music#0
+NULL#Eh?#0
+NULL#What happened?#0
+NULL#Was I spacing out?#0
+NULL#Mizuo is standing next to me, calling me out.#0
+01_Mizuo#"Don't wanna pry around your personal space..."#1
+01_Mizuo#"But I just couldn't ignore that you're somehow disturbed with something?"#1
+01_Mizuo#"Could it be.."#2
+01_Mizuo#"Was my cooking bad?"#1
+01_Mizuo#"Or maybe..."#1
+01_Mizuo#"Something happened that you wanna talk about?"#1
+NULL#There he is again, reading my mind.#0
+F#Play_Music#-1
+NULL#But...#0
+NULL#He is not wrong, couldn't be more correct.#0
+NULL#It wasn't his cooking, it's me.#0
+NULL#It has been a tough week for me, working in a accounting firm.#0
+NULL#I don't have anyone to talk about my problems.#0
+NULL#Maybe, just maybe...#0
+NULL#...#0
+01_Mizuo#"What's wrong?"#1
+F#Selection#2
+S#Tell him#187
+S#Don't tell him#150
+NULL#I decided not to talk about it with him.#-1
+NULL#I don't want to burden him with my problems.#-1
+NULL#And yet...#-1
+01_Mizuo#"Well."#2
+01_Mizuo#"It's okay if you don't want to share it with me."#1
+01_Mizuo#"I mean, we barely know each other."#3
+01_Mizuo#"But just to let you know..."#3
+01_Mizuo#"If you ever need someone to listen what you have to say..."#2
+01_Mizuo#"I'm all ear."#1
+NULL#...#-1
+F#Play_Music#1
+NULL#Why?#0
+NULL#Why are you so kind?#0
+NULL#Even though you barely know me...#0
+NULL#Even though I decided not to tell you...#0
+NULL#So why...?#0
+01_Mizuo#"..."#2
+01_Mizuo#"Well, I'll leave you for now."#3
+NULL#No, please don't leave me, was the word I wanted to say.#0
+NULL#If only I had the courage to say it...#0
+NULL#If only...#0
+F#Selection#2
+S#Let him go#174
+S#Stop him#183
+F#Play_Music#-1
+NULL#In the end, I couldn't do anything...#0
+NULL#...#0
+NULL#I walk towards the cashier to pay my bill, and then headed towards the entrance.#0
+F#Fade_BG#-1
+NULL#Go back to my apaterment, that was all what I have in my head.#0
+NULL#And so, I ended my day.#0
+NULL#...#0
+F#Jump_to_Line#29
+NULL#My hand...#0
+NULL#Subconsciously grabbing his hand, trying to stop him from leaving.#0
+01_Mizuo#"..."#4
+F#Jump_to_Line#194
+NULL#...#-1
+F#Play_Music#1
+NULL#Why?#0
+NULL#Why are you so kind?#0
+NULL#Even though you barely know me...#0
+NULL#So why...?#0
+01_Mizuo#"Ah..."#4
+01_Mizuo#"So there was something you wanted to talk about..."#4
+01_Mizuo#"Welp..."#3
+NULL#Mizuo sits in  at the chair in front of me.#-1
+01_Mizuo#"So, what is it that you want to talk about?"#4
+01_Mizuo#"It's okay, I'll listen to anything you want to say."#8
+NULL#...#0
+NULL#For the first time, he smiled.#0
+NULL#Not in a sarcastic way.#0
+NULL#It's somehow comforting...#0
+F#Play_Music#-1
+NULL#...#-1
+F#Fade_BG#-1
+NULL#And so we started talking to each other.#-1
+NULL#No, it's mostly me festing up my frustrations to Mizuo.#-1
+NULL#He patiently listens to me ranting out.#-1
+NULL#Though in some part of my heart, I know it's a bad thing to lash out on some one.#-1
+NULL#I just couldn't help myself.#-1
+NULL#...#-1
+F#Fade_BG#0
+01_Mizuo#"I see..."#2
+01_Mizuo#"Well, for starter I'll say this to you."#3
+01_Mizuo#"It's perfectly fine for you to feel like that."#8
+01_Mizuo#"Peoples these days tend to lie to themselves about these kinds of things."#1
+01_Mizuo#"I think it's better if you just be more honest with your feelings."#1
+01_Mizuo#"It's a tough world out there, people can be unforgiving at times."#3
+01_Mizuo#"But as long as you keep looking forward, everything's gonna be fine."#8
+NULL#To be honest, I didn't catch what he was talking at the end.#0
+NULL#Despite that, for the first time since a long time...#0
+NULL#I felt comfortable, talking to someone.#0
+NULL#I didn't have to put up the mask I use everyday.#0
+NULL#It's a bliss, to feel this sense of security.#0
+NULL#...#-1
+NULL#I wonder what he is feeling right now.#-1
+01_Mizuo#"So, how do you feel right now?"#8
+F#Selection#2
+S#"I'm good."#235
+S#"..."#231
+01_Mizuo#"..."#8
+NULL#He just keep smiling to me, waiting for my respond.#0
+NULL#I wasn't able to say anything.#0
+F#Jump_to_Line#237
+01_Mizuo#"Feel better now? That good."#9
+01_Mizuo#"..."#9
+01_Mizuo#"..."#4
+NULL#Mizuo's smile suddenly faded, and went back to his normal expression.#-1
+NULL#No, this one is a bit tense.#-1
+01_Mizuo#"Hey."#1
+01_Mizuo#"I wasn't going to tell this to anyone."#2
+01_Mizuo#"But, I guess telling it to you is  okay."#1
+NULL#He has something to say to me.#-1
+01_Mizuo#"You might want to stop coming here."#2
+01_Mizuo#"It may not be to shocking for you..."#3
+01_Mizuo#"This cafe haven't had a lot of customers lately."#3
+01_Mizuo#"No, we never had a lot of customers coming in."#2
+01_Mizuo#"And so, the management told me that we're closing in the coming months."#2
+NULL#What?#-1
+NULL#Why?#-1
+NULL#This is too sudden...#-1
+01_Mizuo#"Well, if things don't turn around soon."#1
+01_Mizuo#"I'm afraid you won't be able to eat here anymore."#3
+NULL#But why?#0
+NULL#I had a good time eating here...#0
+01_Mizuo#"Ah, my bad."#2
+01_Mizuo#"I have to go now."#1
+01_Mizuo#"Sorry about earlier, kinda killed the mood there."#3
+01_Mizuo#"I'm off now..."#2
+NULL#...#-1
+NULL#There's nothing left to do here, might as well go to the cashier now and head back home.#-1
+NULL#...#-1
+01_Mizuo#"..."#2
+NULL#As I walk toward the cashier, just like before, I saw Mizuo standing in the kitchen through a window just behind the cashier.#-1
+01_Mizuo#"..."#1
+NULL#Just like before, he noticed me standing in front of the cashier.#-1
+01_Mizuo#"Hey."#1
+NULL#...#-1
+01_Mizuo#"Thank you for coming today, see you soon."#8
+NULL#As he said his farewell, smiling, I walk towards the entrance door.#0
+NULL#This could be my last time here, yet I can't do anything.#-1
+NULL#This could be my last time here, yet I can't do anything.#-1
+F#Fade_BG#1
+F#Fade_BG#1
+NULL#As I take a step outside, I start to wonder.#-1
+NULL#...#-1
+NULL#Can I really help him?#-1
+F#Selection#2
+S#No, you can't#281
+S#Yes, you can#283
+NULL#...#-1
+F#Jump_to_Line#287
+NULL#...#-1
+CB#MizuoMissionStart#1
+F#Play_Clip_No_Wait#0
+NULL#Play High and Low in Free Mode to unlock next chapter#-1
+F#Change_Scene_No_Pref#1

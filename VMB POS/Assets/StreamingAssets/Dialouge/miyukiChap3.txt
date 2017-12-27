@@ -1,0 +1,151 @@
+NULL#After you heard the news about the cafe closing, you tried to help them.#-1
+NULL#Realisticly, there's not much you can do.#-1
+NULL#You can't save them by becoming their new shareholder, or taking over as their new manager here#-1
+NULL#Even by doing so, you don't have the skill to run a failing restaurant#-1
+NULL#All you did was tell your coleagues about this place.#-1
+NULL#By turn, your coleagues tell it over to their other coleagues.#-1
+NULL#See the patterns here?#-1
+NULL#And now... two months later after that faithful day.#-1
+F#Fade_BG#0
+F#Play_Music#0
+NULL#The cafe have become more crowded.#-1
+NULL#People has started to come here.#-1
+NULL#This once lonely place have become much more lively.#-1
+NULL#Peoples who come here are predominantly workers like yourself, followed by families.#-1
+NULL#The cafe is now able to employ more waiter and waitress, as you see half a dozen of unfamiliar face wearing the outfit.#-1
+NULL#Speaking of work...#-1
+NULL#You remembered that you just had a promotion at your working place earlier this month.#-1
+NULL#Promotion means higher salary.#-1
+NULL#Now, you can come here more often, becoming a regular basically.#-1
+NULL#"Welcome to Cafe Lajoie"#-1
+NULL#A waiteress greets you.#0
+NULL#As you see, it's not that waitress you met two months ago.#0
+NULL#Maybe she quit?#0
+NULL#...#0
+NULL#As you walk inside trying to get a seat, you realize there's not a lot of empty chairs.#0
+NULL#In fact, you haven't crossed any available seat seat.#0
+NULL#You walk around a little more looking for a place to sit.#0
+NULL#And there you found one seat.#0
+NULL#...#0
+NULL#It's the very seat you seat many months ago.#0
+NULL#"Could it really be a coincidence?"#0
+NULL#You sit on the chair, as the waitress from earlier handed you the menu.#0
+NULL#...#0
+NULL#The foods they serve are the same like the last time you were here.#0
+NULL#How could they stay in business by only serving so little option?#0
+NULL#...#0
+NULL#At this point you don't really care what you order.#0
+NULL#You came here today not because you really want to eat.#0
+NULL#Truth be told, all you want was to meet her, after all this time.#0
+NULL#...#0
+NULL#Still, so far you have not seen her yet.#0
+NULL#And so, you can only wait for you food to come.#0
+F#Fade_BG#-1
+NULL#...#0
+NULL#"Why can't I stop thinking about her?"#0
+NULL#You start day dreaming.#0
+00_Miyuki#"Thank you for waiting."#4
+NULL#Her long blonde hair, her blue eyes.#0
+NULL#It mesmerized you somehow.#0
+NULL#Most importantly, her smile.#0
+NULL#You felt joy just just seeing her smile.#0
+00_Miyuki#"Here's your food."#3
+NULL#Even in your day dream, it still give you that sense of pleasure.#0
+F#Fade_BG#0
+NULL#...#0
+00_Miyuki#"..."#3
+NULL#You felt goose bumped when you realize it's her who deliver your food.#0
+NULL#It's not a dream, she still work here.#0
+00_Miyuki#"How is your day so far? It's been a while."#4
+NULL#Word can't begin to express what you felt.#0
+NULL#In fact, you are speechless, that you can't even speak right now.#0
+00_Miyuki#"Can I sit with you?.#2
+NULL#You didn't decline.#0
+NULL#Because of course, you wanted to talk to her in the first place.#0
+NULL#...#-1
+00_Miyuki#"..."#3
+NULL#This is bad, you can't think of any word to say.#-1
+NULL#Come on, think of something to say.#-1
+F#Selection#5
+S#"How are you doing?"#75
+S#"The food looks nice"#77
+S#"There's a lot of people now"#79
+S#"About last time..."#81
+S#"..."#82
+00_Miyuki#"I'm feeling great, thank you."#3
+F#Jump_to_Line#82
+00_Miyuki#"Yes it is."#3
+F#Jump_to_Line#82
+00_Miyuki#"I know right?"#3
+F#Jump_to_Line#82
+00_Miyuki#"..."#3
+NULL#She smiles at you.#0
+00_Miyuki#"What are you waiting for? the food will get cold if you don't eat it."#2
+NULL#"Awh, right..."#0
+NULL#And so, you eat your food.#-1
+F#Fade_BG#-1
+NULL#...#0
+NULL#It's delicious, a whole lot more than you expected.#0
+NULL#You don't remember the food here was this delicious.#0
+NULL#Perhaps it's because you haven't come here for a while.#0
+NULL#Or maybe because the a new chef, or rather a whole new kitchen crew#0
+00_Miyuki#"..."#3
+NULL#Or perhaps, it's something else...#0
+NULL#...#0
+F#Fade_BG#0
+NULL#You just finished your food.#0
+NULL#It was delicious to the very last bite.#0
+NULL#It surpass anything you eaten so far in tastefulness.#0
+00_Miyuki#"Oh my"#4
+00_Miyuki#"Looks like you really enjoyed your food"#2
+00_Miyuki#"So much so, there's some left over in your cheek"#1
+NULL#The waitress pointed a finger toward your face.#0
+NULL#It appears you missed some food in your face.#0
+00_Miyuki#"Stay there, don't move your face"#4
+F#Selection#1
+S#"Wait, what are you doing?"#107
+00_Miyuki#"Hold on, let me..."#4
+F#Play_Music#-1
+NULL#The waitress lean her body towards you.#-1
+F#Fade_BG#-1
+F#Fade_BG#3
+F#Play_Music#2
+NULL#With a handkerchief she wiped your cheek.#-1
+00_Miyuki#"There you go, all done"#0
+00_Miyuki#"It was really delicious, wasn't it?"#0
+NULL#You see her smile as she pull her hand back.#-1
+NULL#A very gentle, lovely, bright smile.#-1
+NULL#...#-1
+00_Miyuki#"Hey, I haven't a the chance to say it to you."#0
+00_Miyuki#"Thank you, for everything."#0
+00_Miyuki#"..."#0
+NULL#"..."#-1
+NULL#The both of you exchanged smile, not a single word spoken.#-1
+NULL#You spent the rest of the afternoon talking to each other.#-1
+NULL#You, with the waitress of Cafe Lajoie...#-1
+NULL#...Whom you still not now her name yet.#-1
+00_Miyuki#"..."#0
+NULL#...#-1
+F#Play_Music#-1
+NULL#"Hah! Who am I kidding? Ofcourse you knew already." #-1
+NULL#"Her name is Miyuki." #-1
+NULL#"Surely you realized by now everytime she speaks you can see her name above this window right?" #-1
+NULL#"Her name was in the main menu too." #-1
+NULL#"It's humanly imposible for you to miss it." #-1
+NULL#"Right, Player-san?" #-1
+NULL#"..." #-1
+NULL#"Anyways..." #-1
+NULL#"This is the developer speaking" #-1
+NULL#"This is the end of Cafe Lajoie v. 0.1" #-1
+NULL#"Credits to my Friends, Leoni for her work on the Character Sprites and CG(+ Dialouge background) " #-1
+NULL#"Mahendra for helping me with the story, Christian for the menu layout and buttons, my sister for coloring the character sprites" #-1
+NULL#"Music made by Kevin MacLeod(Main theme and Miyuki's theme), ReinFreebird (Others)" #-1
+NULL#"Backround are made by Uncle Mugen (Mostly)" #-1
+NULL#"And the other resource I wasn't able to put credits on." #-1
+NULL#"Last, but not least, thank you to you, Player-san." #-1
+NULL#"See you in the next update." #-1
+F#Play_Clip_No_Wait#0
+NULL#"Also, you have unlocked a CG and a Reward. Make sure to check those out"#-1
+CCG#RewardArray#2
+CCG#CGArray#0
+F#Change_Scene_No_Pref#1

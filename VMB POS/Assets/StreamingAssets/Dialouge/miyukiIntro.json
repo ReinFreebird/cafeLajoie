@@ -1,0 +1,1759 @@
+[
+   {
+      "lineIndex":1,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":2,
+      "id":"NULL",
+      "line":"It's mid-afternoon. The sun shines so brightly.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":3,
+      "id":"NULL",
+      "line":"You watch people walk as you sit on a chair in the middle of a shopping district.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":4,
+      "id":"NULL",
+      "line":"While wathcing peoples minding their own bussiness, you just remembered that you haven't had lunch yet.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":5,
+      "id":"NULL",
+      "line":"And so, you are hungry.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":6,
+      "id":"NULL",
+      "line":"You stand up and start wondering around to find a place to eat.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":7,
+      "id":"NULL",
+      "line":"Nothing really catch your eye, until you reach the end of the shopping district.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":8,
+      "id":"NULL",
+      "line":"You saw a small board standing in front of a door made of glass",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":9,
+      "id":"NULL",
+      "line":"Cafe Lajoie.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":10,
+      "id":"NULL",
+      "line":"You don't recall seeing this place before.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":11,
+      "id":"NULL",
+      "line":"Maybe it has only been opened just recently?",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":12,
+      "id":"NULL",
+      "line":"You decided to have lunch in this place.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":13,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"0",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":14,
+      "id":"F",
+      "line":"Play_Clip",
+      "parameter":"1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":15,
+      "id":"Miyuki",
+      "line":"\"Welcome to Cafe Lajoie\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":16,
+      "id":"F",
+      "line":"Play_Music",
+      "parameter":"0",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":17,
+      "id":"NULL",
+      "line":"As you walk through the door, you are greeted by the waitress who waited in front of the door",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":18,
+      "id":"NULL",
+      "line":"Long grey hair and blue eyes. You don't meet such features much these days.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":19,
+      "id":"NULL",
+      "line":"With a radiant smile the waitress welcome you inside the cafe.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":20,
+      "id":"Miyuki",
+      "line":"\"Table for one, right? Would you like the smoking or non-smoking section?\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":21,
+      "id":"NULL",
+      "line":"The waitress asked you in which section you wish to be dining.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":22,
+      "id":"F",
+      "line":"Selection",
+      "parameter":"2",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":23,
+      "id":"S",
+      "line":"\"Smoking Area\"",
+      "parameter":"25",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":24,
+      "id":"S",
+      "line":"\"Non-Smoking Area\"",
+      "parameter":"93",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":25,
+      "id":"Miyuki",
+      "line":"\"Very well, please follow me\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":26,
+      "id":"NULL",
+      "line":"You walk to your table with the waitress guiding you there",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":27,
+      "id":"NULL",
+      "line":"You sat on the chair the waitress guided you to",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":28,
+      "id":"Miyuki",
+      "line":"\"Here is our menu.\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":29,
+      "id":"NULL",
+      "line":"The waitress handed you the menu.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":30,
+      "id":"Miyuki",
+      "line":"\"Excuse me, but I will be leaving you now.\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":31,
+      "id":"Miyuki",
+      "line":"\"Just call me when you have decided what to order.\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":32,
+      "id":"NULL",
+      "line":"The waitress left you. You open the menu to see what they are serving.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":33,
+      "id":"NULL",
+      "line":"It turns out that they don't really serve much food.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":34,
+      "id":"NULL",
+      "line":"They only had 2 main dishes, which are Curry Rice and Ramen noodle.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":35,
+      "id":"NULL",
+      "line":"A pretty standard food for a lovely place like this.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":36,
+      "id":"NULL",
+      "line":"Not to mention this place name, Lajoie. In French it translates to The Joy.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":37,
+      "id":"NULL",
+      "line":"You're not sure you feel any joy coming out from this place",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":38,
+      "id":"NULL",
+      "line":"Perhaps it's because you're the only one here at this moment.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":39,
+      "id":"NULL",
+      "line":"Well, we shouldn't be too quick to judge.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":40,
+      "id":"NULL",
+      "line":"With so little option you can choose, you decide to call the waitress to take your order.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":41,
+      "id":"Miyuki",
+      "line":"\"Yes, may I take your order?\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":42,
+      "id":"F",
+      "line":"Jump_to_Line",
+      "parameter":"45",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":43,
+      "id":"Miyuki",
+      "line":"\"Ergh... sorry, but we don't have that.\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":44,
+      "id":"Miyuki",
+      "line":"\"Something else that I can get you?\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":45,
+      "id":"F",
+      "line":"Selection",
+      "parameter":"3",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":46,
+      "id":"S",
+      "line":"\"Curry Rice\"",
+      "parameter":"49",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":47,
+      "id":"S",
+      "line":"\"Ramen Noodle\"",
+      "parameter":"51",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":48,
+      "id":"S",
+      "line":"\"WAAAAFFFLEEEESSS!!!!!\"",
+      "parameter":"43",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":49,
+      "id":"Miyuki",
+      "line":"\"Curry Rice it is then.\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":50,
+      "id":"F",
+      "line":"Jump_to_Line",
+      "parameter":"52",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":51,
+      "id":"Miyuki",
+      "line":"\"Ramen Noodle it is then.\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":52,
+      "id":"NULL",
+      "line":"The waitress writes your order in her order book.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":53,
+      "id":"Miyuki",
+      "line":"\"I will bring your order as soon as it's ready\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":54,
+      "id":"Miyuki",
+      "line":"\"Now, if you excuse me\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":55,
+      "id":"NULL",
+      "line":"And so, she left you once again.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":56,
+      "id":"NULL",
+      "line":"Aside from the lack of food variety they have here, everything else are impressive.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":57,
+      "id":"NULL",
+      "line":"The waitress is especially good with her job serving.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":58,
+      "id":"NULL",
+      "line":"You feel genuinely welcomed and treated like well distinguished guest.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":59,
+      "id":"NULL",
+      "line":"When I think about it, is this what people call maid cafe?",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":60,
+      "id":"NULL",
+      "line":"Though not obvious, her dress reminds you that of maids in those kind of cafe",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":61,
+      "id":"NULL",
+      "line":"Now then , it's time you wait for your meal to come.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":62,
+      "id":"NULL",
+      "line":"You casually open your phone, trying to distract yourself.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":63,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"-1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":64,
+      "id":"NULL",
+      "line":"And so you wait.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":65,
+      "id":"NULL",
+      "line":"",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":66,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"0",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":67,
+      "id":"Miyuki",
+      "line":"\"Thank you for waiting. here is your order\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":68,
+      "id":"NULL",
+      "line":"The waitress sets your meal above the table.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":69,
+      "id":"NULL",
+      "line":"By the smell and the look of it, you will be having a good lunch.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":70,
+      "id":"Miyuki",
+      "line":"\"Enjoy.\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":71,
+      "id":"NULL",
+      "line":"There's nothing left to say, time to chow down.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":72,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"-1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":73,
+      "id":"NULL",
+      "line":"The food is good.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":74,
+      "id":"NULL",
+      "line":"You ended up devouring your food.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":75,
+      "id":"NULL",
+      "line":"You just can't help yourself by the deliciousness of the meal you're eating.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":76,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"0",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":77,
+      "id":"NULL",
+      "line":"Without you realizing it, you have finished your food.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":78,
+      "id":"NULL",
+      "line":"You didn't want to stay too long, so you call the waitress for your check.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":79,
+      "id":"Miyuki",
+      "line":"\"How were your food? I hope you like it.\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":80,
+      "id":"Miyuki",
+      "line":"\"Anyway, here's your bill. You can pay it at the cashier\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":81,
+      "id":"NULL",
+      "line":"Without thinking much, you head straight to the cashier to pay your bill",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":82,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"-1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":83,
+      "id":"NULL",
+      "line":"",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":84,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"0",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":85,
+      "id":"Miyuki",
+      "line":"\"Please come again.\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":86,
+      "id":"NULL",
+      "line":"As you walk toward the exit, the waitress opened the door and says farewell.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":87,
+      "id":"NULL",
+      "line":"It was not much, but it was a refreshing experience eating here.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":88,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":89,
+      "id":"NULL",
+      "line":"As you take a step outside, you wonders.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":90,
+      "id":"NULL",
+      "line":"...",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":91,
+      "id":"NULL",
+      "line":"Maybe I should come here more often",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":92,
+      "id":"F",
+      "line":"Jump_to_Line",
+      "parameter":"250",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":93,
+      "id":"Miyuki",
+      "line":"\"Very well, please follow me\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":94,
+      "id":"NULL",
+      "line":"You walk to your table with the waitress guiding you there",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":95,
+      "id":"NULL",
+      "line":"You sat on the chair the waitress guided you to",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":96,
+      "id":"Miyuki",
+      "line":"\"Here is our menu.\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":97,
+      "id":"NULL",
+      "line":"The waitress handed you the menu.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":98,
+      "id":"Miyuki",
+      "line":"\"Excuse me, but I will be leaving you now.\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":99,
+      "id":"Miyuki",
+      "line":"\"Just call me when you have decided what to order.\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":100,
+      "id":"NULL",
+      "line":"The waitress left you. You open the menu to see what they are serving.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":101,
+      "id":"NULL",
+      "line":"It turns out that they don't really serve much food.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":102,
+      "id":"NULL",
+      "line":"They only had 2 main dishes, which are Curry Rice and Ramen noodle.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":103,
+      "id":"NULL",
+      "line":"A pretty standard food for a lovely place like this.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":104,
+      "id":"NULL",
+      "line":"Not to mention this place name, Lajoie. In French it translates to The Joy.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":105,
+      "id":"NULL",
+      "line":"You're not sure you feel any joy coming out from this place",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":106,
+      "id":"NULL",
+      "line":"Perhaps it's because you're the only one here at this moment.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":107,
+      "id":"NULL",
+      "line":"Well, we shouldn't be too quick to judge.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":108,
+      "id":"NULL",
+      "line":"With so little option you can choose, you decide to call the waitress to take your order.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":109,
+      "id":"Miyuki",
+      "line":"\"Yes, may I take your order?\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":110,
+      "id":"F",
+      "line":"Jump_to_Line",
+      "parameter":"113",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":111,
+      "id":"Miyuki",
+      "line":"\"Ergh... sorry, but we don't have that.\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":112,
+      "id":"Miyuki",
+      "line":"\"Something else that I can get you?\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":113,
+      "id":"F",
+      "line":"Selection",
+      "parameter":"3",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":114,
+      "id":"S",
+      "line":"\"Curry Rice\"",
+      "parameter":"117",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":115,
+      "id":"S",
+      "line":"\"Ramen Noodle\"",
+      "parameter":"119",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":116,
+      "id":"S",
+      "line":"\"WAAAAFFFLEEEESSS!!!!!\"",
+      "parameter":"111",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":117,
+      "id":"Miyuki",
+      "line":"\"Curry Rice it is then.\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":118,
+      "id":"F",
+      "line":"Jump_to_Line",
+      "parameter":"121",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":119,
+      "id":"Miyuki",
+      "line":"\"Ramen Noodle it is then.\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":120,
+      "id":"NULL",
+      "line":"The waitress writes your order in her order book.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":121,
+      "id":"Miyuki",
+      "line":"\"I will bring your order as soon as it's ready\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":122,
+      "id":"Miyuki",
+      "line":"\"Now, if you excuse me\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":123,
+      "id":"NULL",
+      "line":"And so, she left you once again.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":124,
+      "id":"NULL",
+      "line":"Aside from the lack of food variety they have here, everything else are impressive.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":125,
+      "id":"NULL",
+      "line":"The waitress is especially good with her job serving.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":126,
+      "id":"NULL",
+      "line":"You feel genuinely welcomed and treated like well distinguished guest.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":127,
+      "id":"NULL",
+      "line":"When I think about it, is this what people call maid cafe?",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":128,
+      "id":"NULL",
+      "line":"Though not obvious, her dress reminds you that of maids in those kind of cafe",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":129,
+      "id":"NULL",
+      "line":"Now then , it's time you wait for your meal to come.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":130,
+      "id":"NULL",
+      "line":"You casually open your phone, trying to distract yourself.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":131,
+      "id":"Miyuki",
+      "line":"\"...\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":132,
+      "id":"NULL",
+      "line":"You sense the waitress staring at you while you're not looking",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":133,
+      "id":"NULL",
+      "line":"She is standing not far from where you are sitting",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":134,
+      "id":"NULL",
+      "line":"You don't really feel any bad intent from her, perhaps there's something she wanted to say to you",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":135,
+      "id":"F",
+      "line":"Selection",
+      "parameter":"2",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":136,
+      "id":"S",
+      "line":"\"What is it?\"",
+      "parameter":"138",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":137,
+      "id":"S",
+      "line":"\"Yes?\"",
+      "parameter":"138",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":138,
+      "id":"Miyuki",
+      "line":"\"Urgh... sorry...\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":139,
+      "id":"NULL",
+      "line":"She walk toward your table to get closer to you",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":140,
+      "id":"Miyuki",
+      "line":"\"Sorry, did I bother you?\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":141,
+      "id":"F",
+      "line":"Selection",
+      "parameter":"2",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":142,
+      "id":"S",
+      "line":"\"Not really\"",
+      "parameter":"144",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":143,
+      "id":"S",
+      "line":"\"A bit\"",
+      "parameter":"144",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":144,
+      "id":"F",
+      "line":"Play_Music",
+      "parameter":"-1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":145,
+      "id":"Miyuki",
+      "line":"\"I-I see...\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":146,
+      "id":"Miyuki",
+      "line":"\"...\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":147,
+      "id":"NULL",
+      "line":"...",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":148,
+      "id":"F",
+      "line":"Play_Music",
+      "parameter":"1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":149,
+      "id":"Miyuki",
+      "line":"\"We don't often have customers come here, especially at this hour\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":150,
+      "id":"Miyuki",
+      "line":"\"It can be lonely, you know\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":151,
+      "id":"NULL",
+      "line":"Well, this is new",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":152,
+      "id":"NULL",
+      "line":"You're not sure if this is okay.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":153,
+      "id":"NULL",
+      "line":"As her briliant smile turn slightly sadder, you feel as she is a completly different person.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":154,
+      "id":"NULL",
+      "line":"Since you didn't know what to do, you just let things happen",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":155,
+      "id":"Miyuki",
+      "line":"\"I'm glad that you came here today. I really do.\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":156,
+      "id":"Miyuki",
+      "line":"\"I know it's weird cause we never met before.\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":157,
+      "id":"Miyuki",
+      "line":"\"But thank you...\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":158,
+      "id":"Miyuki",
+      "line":"\"...\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":159,
+      "id":"NULL",
+      "line":"...",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":160,
+      "id":"NULL",
+      "line":"This is the time when you are suppose to say something",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":161,
+      "id":"F",
+      "line":"Selection",
+      "parameter":"3",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":162,
+      "id":"S",
+      "line":"\"What?\"",
+      "parameter":"165",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":163,
+      "id":"S",
+      "line":"\"Get lost!\"",
+      "parameter":"165",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":164,
+      "id":"S",
+      "line":"\"I LOVE YOU\"",
+      "parameter":"165",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":165,
+      "id":"NULL",
+      "line":"Since you don't have the BALLS to actually said that, you ended up only nodding to her",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":166,
+      "id":"NULL",
+      "line":"In reply, she smiles back to you",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":167,
+      "id":"F",
+      "line":"Play_Music",
+      "parameter":"-1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":168,
+      "id":"NULL",
+      "line":"And just like that, she smiles again like when you just came here",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":169,
+      "id":"NULL",
+      "line":"You're not really sure what just happen, so you just shruged it off",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":170,
+      "id":"Miyuki",
+      "line":"\"Hey...\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":171,
+      "id":"Miyuki",
+      "line":"\"Do you want to play with me?\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":172,
+      "id":"Miyuki",
+      "line":"\"You know... until your food ready?\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":173,
+      "id":"NULL",
+      "line":"The thougth of declining her crossed your mind",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":174,
+      "id":"NULL",
+      "line":"Of course, you don't want to act like an asshole, so you accepted her offer",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":175,
+      "id":"F",
+      "line":"Play_Music",
+      "parameter":"0",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":176,
+      "id":"Miyuki",
+      "line":"\"Great\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":177,
+      "id":"Miyuki",
+      "line":"\"Let's go~~!\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":178,
+      "id":"NULL",
+      "line":"And just like that, you decided to play with her",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":179,
+      "id":"F",
+      "line":"Play_Music",
+      "parameter":"-1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":180,
+      "id":"NULL",
+      "line":"Although you are not even sure about what is going on",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":181,
+      "id":"F",
+      "line":"Change_Scene_With_Pref",
+      "parameter":"3",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":182,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"0",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":183,
+      "id":"F",
+      "line":"Play_Music",
+      "parameter":"0",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":184,
+      "id":"Miyuki",
+      "line":"\"Yay, you finished the game\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":185,
+      "id":"Miyuki",
+      "line":"\"How was it? Did you enjoy it?\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":186,
+      "id":"F",
+      "line":"Selection",
+      "parameter":"3",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":187,
+      "id":"S",
+      "line":"\"Yes, actually\"",
+      "parameter":"190",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":188,
+      "id":"S",
+      "line":"\"It was fine\"",
+      "parameter":"193",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":189,
+      "id":"S",
+      "line":"\"Could have been better\"",
+      "parameter":"196",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":190,
+      "id":"Miyuki",
+      "line":"\"Right, right?\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":191,
+      "id":"Miyuki",
+      "line":"\"I'm glad you enjoyed it\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":192,
+      "id":"F",
+      "line":"Jump_to_Line",
+      "parameter":"198",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":193,
+      "id":"Miyuki",
+      "line":"\"Eeh... Is that so?\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":194,
+      "id":"Miyuki",
+      "line":"\"Well, you don't dislike it, I guess it's okay.\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":195,
+      "id":"F",
+      "line":"Jump_to_Line",
+      "parameter":"198",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":196,
+      "id":"Miyuki",
+      "line":"\"Ugh.. Why though?\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":197,
+      "id":"Miyuki",
+      "line":"\"I was hoping you would enjoy it\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":198,
+      "id":"Miyuki",
+      "line":"\"...\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":199,
+      "id":"Miyuki",
+      "line":"\"Say...\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":200,
+      "id":"Miyuki",
+      "line":"\"It maybe a bit too much.\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":201,
+      "id":"Miyuki",
+      "line":"\"Can I call you \"Master\"?\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":202,
+      "id":"Miyuki",
+      "line":"\"You know, like in maid cafes...\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":203,
+      "id":"F",
+      "line":"Selection",
+      "parameter":"2",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":204,
+      "id":"S",
+      "line":"\"Sure\"",
+      "parameter":"206",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":205,
+      "id":"S",
+      "line":"\"Yes, but tell me your name first\"",
+      "parameter":"207",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":206,
+      "id":"Miyuki",
+      "line":"\"Yay, now I have a Master\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":207,
+      "id":"Miyuki",
+      "line":"\"Oh, I forgot. I haven't introduced myself haven't I?\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":208,
+      "id":"Miyuki",
+      "line":"\"My name is Miyuki.\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":209,
+      "id":"Miyuki",
+      "line":"\"Starting today,I will be at your service, Master\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":210,
+      "id":"NULL",
+      "line":"You're not really sure how things turn out the way it is",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":211,
+      "id":"NULL",
+      "line":"But you just acquired yourself a personal maid",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":212,
+      "id":"NULL",
+      "line":"At least, in here",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":213,
+      "id":"NULL",
+      "line":"Miyuki huh?",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":214,
+      "id":"NULL",
+      "line":"It may feel a bit awkward remembering the circumstances",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":215,
+      "id":"NULL",
+      "line":"But you accepted her with an open hand",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":216,
+      "id":"Miyuki",
+      "line":"\"Ah, it appears your lunch is ready\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":217,
+      "id":"NULL",
+      "line":"Miyuki stands up and walk toward the window between the dining floor and the kitchen",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":218,
+      "id":"NULL",
+      "line":"Walking back here, she brought with her the food that you ordered",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":219,
+      "id":"Miyuki",
+      "line":"\"Here you go, Master\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":220,
+      "id":"NULL",
+      "line":"As Miyuki set up your plate, you can see how she carefully put your dish",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":221,
+      "id":"NULL",
+      "line":"You can notice how her thoughtfulness translated to your dining experience here.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":222,
+      "id":"Miyuki",
+      "line":"\"Enjoy your meal, Master\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":223,
+      "id":"NULL",
+      "line":"For a second you forgot why you're here in the first play",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":224,
+      "id":"NULL",
+      "line":"It's time to eat up",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":225,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"-1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":226,
+      "id":"NULL",
+      "line":"The food is good.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":227,
+      "id":"NULL",
+      "line":"You ended up devouring your food.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":228,
+      "id":"NULL",
+      "line":"You just can't help yourself by the deliciousness of the meal you're eating.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":229,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"0",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":230,
+      "id":"NULL",
+      "line":"Without you realizing it, you have finished your lunch",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":231,
+      "id":"NULL",
+      "line":"Even thought it was a simple dish, it tasted like something you never had before.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":232,
+      "id":"NULL",
+      "line":"You called Miyuki to get the check",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":233,
+      "id":"Miyuki",
+      "line":"\"How was your meal, Master?\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":234,
+      "id":"Miyuki",
+      "line":"\"Anyway, here's your bill. You can pay it at the cashier\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":235,
+      "id":"NULL",
+      "line":"Without thinking much, you head straight to the cashier to pay your bill",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":236,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"-1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":237,
+      "id":"NULL",
+      "line":"",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":238,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"0",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":239,
+      "id":"Miyuki",
+      "line":"\"Please come again, Master.\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":240,
+      "id":"NULL",
+      "line":"As you walk toward the exit, Miyuki opened the door and says her farewell.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":241,
+      "id":"NULL",
+      "line":"You wave at her and gave her a smile.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":242,
+      "id":"NULL",
+      "line":"Eating out here today really refreshed your mind.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":243,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":244,
+      "id":"NULL",
+      "line":"As you take a step outside, you wonders.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":245,
+      "id":"NULL",
+      "line":"...",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":246,
+      "id":"CC",
+      "line":"MiyukiChapter",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":247,
+      "id":"NULL",
+      "line":"When will I got a chance to meet her again",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":248,
+      "id":"F",
+      "line":"Play_Clip_No_Wait",
+      "parameter":"0",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":249,
+      "id":"NULL",
+      "line":"Congratulations, you have unlocked Miyuki's Chapter 1",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":250,
+      "id":"NULL",
+      "line":"Tap to Continue...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":251,
+      "id":"F",
+      "line":"Change_Scene_No_Pref",
+      "parameter":"5",
+      "functionTrue":true
+   }
+]

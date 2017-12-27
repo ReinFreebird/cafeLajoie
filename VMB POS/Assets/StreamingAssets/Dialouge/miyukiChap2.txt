@@ -1,0 +1,274 @@
+NULL#Few days later#-1
+F#Fade_BG#2
+NULL#You wake up at 6 A.M, like you usually do.#-1
+NULL#You look around your room.#-1
+NULL#A very normal room with rent that you can afford.#-1
+NULL#Bed, cupboard, table, kitchen, and toilet.#-1
+NULL#Plus some of your personal collections#-1
+NULL#"Well, as normal salaryman, this place is already good"#-1
+NULL#A place to rest and sleep is all you really need, after all.#-1
+NULL#No more, no less.#-1
+NULL#...#-1
+NULL#Because today is weekend, you don't have any place you have to be in.#-1
+NULL#You have all the day to yourself#-1
+NULL#"What should I do?"#-1
+F#Selection#2
+S#"Sleep all day long."#18
+S#"Go out somewhere."#23
+NULL#It's your day off, you remembered that one time you worked over time two days straight.#-1
+NULL#You thought of rewarding yourself by lazing off all day long.#-1
+NULL#...#-1
+NULL#You decide to stay at your room for the day.#-1
+F#Jump_to_Line#257
+NULL#You might not know what you want to do today just yet.#-1
+NULL#And you do not want to be stuck here all day long.#-1
+NULL#...#-1
+NULL#You decide to go out from your room...#-1
+NULL#...still not sure what you want to do today.#-1
+F#Fade_BG#-1
+NULL#You walk around town.#-1
+NULL#You can feel the sun shines brightly.#-1
+NULL#The thought of discovering new world crossed your mind.#-1
+NULL#What place will you ended up in today?.#-1
+NULL#With that thought you keep walking.#-1
+NULL#In the end...#-1
+F#Fade_BG#1
+NULL#...you ended up here.#-1
+NULL#The ever crowded place we call the shopping district.#-1
+NULL#Even though your mind was thinking of a new place, your body subconsciencely lead you here.#-1
+NULL#By the time you realized where you are right now, your stomach begun to grumble.#-1
+NULL#It's a very hot day, and there are a lot of people here.#-1
+NULL#...#-1
+NULL#You felt like you've been in this very same position before.#-1
+NULL#...#-1
+NULL#You saw that small board standing across the walkway.#-1
+NULL#'Cafe Lajoie'.#-1
+NULL#The very same small board you saw a few days ago.#-1
+NULL#By the looks of it, there's not a lot of people eating there.#-1
+NULL#Just like last time...#-1
+NULL#"Wait, was there anyone else eating besides me at that time?"#-1
+NULL#You wonder if the waitress who served you before is in today#-1
+NULL#And so, you decided to eat in Cafe Lajoie, again.#-1
+F#Fade_BG#0
+F#Play_Clip#1
+F#Play_Music#0
+00_Miyuki#"Welcome to Cafe Lajoie"#1
+NULL#When you open the door, the cafe's waitress greets you.#0
+NULL#The very same waitress that served you the last time you were here.#0
+00_Miyuki#"Ah, Good afternoon. How's your day so far?"#4
+NULL#It appears she recognized you.#0
+NULL#Even thought you've only came here once, she remembers you.#0
+NULL#Well, at least she remembered that you have eaten here before.#0
+00_Miyuki#"Have a sit. Sit anywhere you like."#2
+NULL#"Yes, thank you".#0
+NULL#Unlike the last time you were here, you get to choose your own seat this time.#-1
+NULL#...#-1
+NULL#Even though in the end you sit in the very same place you sat before.#0
+NULL#What a coincidence right?#0
+00_Miyuki#...#3
+NULL#She just stands there, staring at you.#0
+NULL#And she didn't gave you the menu.#0
+NULL#...#-1
+NULL#Ah, maybe she think that you won't be needing the menu this time.#0
+NULL#She knew that you realized the little option of food you can order here.#0
+NULL#"Okay, if that's the case..."#0
+NULL#Since the waitress is already here, you don't have to call her.#0
+00_Miyuki#"Yes, may I take your order?"#2
+F#Selection#3
+S#"Omellete+ White Coffee"#89
+S#"Fried Rice + Orange Juice"#91
+S#"Do you sell anything that is not on the menu?"#81
+00_Miyuki#"Hahaha..."#1
+00_Miyuki#"I'm afraid we don't have anything that is not on the menu, sir".#2
+00_Miyuki#"Of course we can try to get what you are asking us to get".#3
+00_Miyuki#"But that would be an inconvinience for both of us, wouldn't it dear sir?".#8
+NULL#...#0
+NULL#She might look sweet on the outside.#0
+NULL#But deep inside, you do not want to mess with her.#0
+F#Jump_to_Line#77
+00_Miyuki#"Omelette with White Coffee it is then"#3
+F#Jump_to_Line#92
+00_Miyuki#"Fried Rice with Orange Juice it is then"#3
+NULL#The waitress wrote down your order#0
+00_Miyuki#"I'll bring your order as soon as it's finished"#2
+00_Miyuki#"Now, if you excuse me"#2
+NULL#And so, the  waitress left you alone.#-1
+NULL#Sitting in a lonely chair, inside a lonely cafe.#0
+NULL#Well, this is what you wanted in the first place.#0
+NULL#Escape from reality, solace beneath the walls of solitude.#0
+NULL#...#0
+NULL#You felt a weird feeling ran through your body.#0
+NULL#Was it de javu?.#0
+00_Miyuki#"Excuse me..."#5
+F#Play_Music#-1
+NULL#Just like last time, the waitress suddenly reappeared in front of you.#0
+NULL#Well, she is standing next to you this time to be exact.#0
+NULL#And...#0
+NULL#She didn't have her smile, like before.#0
+00_Miyuki#"I'm sorry..."#5
+00_Miyuki#"Do you mind if I sit with you?"#5
+F#Selection#2
+S#"Sorry, what?"#113
+S#"Not at all, take a sit."#118
+00_Miyuki#"Ah..."#5
+00_Miyuki#"My bad..."#6
+00_Miyuki#"Sorry to bother you, I'll be heading back now"#7
+NULL#...#-1
+F#Jump_to_Line#246
+00_Miyuki#"Thank you"#7
+NULL#The waitress sit at the chair in front of you.#-1
+00_Miyuki#"..."#5
+NULL#She is not saying a word.#0
+NULL#Even though she seems happy earlier, it's as if she is a different person now.#0
+NULL#It couldn't be a coincidence she asked to sit alongside you.#0
+NULL#There must be a reason for that.#0
+NULL#She looks as if she is about to cry.#0
+NULL#What do you want to do?.#0
+F#Selection#6
+S#Ask if there's something wrong#134
+S#Open your phone#134
+S#Plan escape route#134
+S#Smack her in the face#134
+S#Try to think of some kind of magic trick#134
+S#Don't do anything#134
+00_Miyuki#"..."#6
+F#Play_Music#1
+NULL#The waitress covers her face with her hand.#-1
+NULL#She is crying for reason unknown to you.#-1
+NULL#Could it be something you said before?#-1
+NULL#You probably would never know the answer.#-1
+NULL#...#-1
+NULL#You can hear her sobs, and a little of cough.#-1
+NULL#She's trying really hard not to cry.#-1
+NULL#Her shoulder trembles, arm shaking so hard her head starts to shake too.#-1
+NULL#...#-1
+NULL#This is bad, she isn't getting any better#-1
+NULL#You have to say something to her, or else it could get worse.#-1
+F#Selection#3
+S#"Are my food ready yet?"#151
+S#"What's wrong?"#152
+S#"..."#157
+00_Miyuki#"Ah..."#5
+00_Miyuki#"I'm sorry..."#6
+00_Miyuki#"I'll go to the back now."#6
+NULL#In haste, the waitress stands and run to the kitchen in the back.#-1
+NULL#...#-1
+F#Jump_to_Line#246
+NULL#You let her cry for a little longer.#-1
+NULL#She must have something she wanted to talk about.#-1
+NULL#You decide to let her settled for a bit.#-1
+00_Miyuki#"I'm sorry..."#5
+00_Miyuki#"Must be weird to see someone cry like this."#7
+00_Miyuki#"I'm a very emotional person you see."#7
+00_Miyuki#"That's why."#5
+NULL#She seems a bit calm now.#0
+NULL#This is a great chance to ask her what's going on.#0
+F#Selection#3
+S#"It's okay"#171
+S#"What's wrong?"#173
+S#"Do you need some tissue?"#170
+00_Miyuki#"Hahaha..."#7
+00_Miyuki#"Thank you..."#7
+00_Miyuki#"I'm okay now"#7
+00_Miyuki#"..."#5
+00_Miyuki#"My days working here are numbered"#5
+00_Miyuki#"This also might be the last time we ever meet here again"#5
+00_Miyuki#"You know, me serving you as a waitress here"#5
+F#Selection#3
+S#"What are you talking about?"#182
+S#"Wait, don't tell me"#182
+S#"Is this cafe about to be closed?"#181
+00_Miyuki#"You're right"#7
+00_Miyuki#"This cafe is about to close you see"#5
+00_Miyuki#"Since we didn't get enough customers for a while now"#5
+00_Miyuki#"The managers said that they are planing to close this place"#5
+00_Miyuki#"I don't want that to happen"#5
+00_Miyuki#"I really enjoy working here, I really do."#7
+00_Miyuki#"I want to save this place, but I just don't know how."#5
+00_Miyuki#"I just couldn't think what to do if I can't work here anymore"#6
+NULL#You sense a bit of determination from her.#0
+NULL#She really wants to stay here, stay working here.#0
+NULL#Even in moment of sorrow, she keep holding on the hope of what she wishes#0
+NULL#...#-1
+F#Play_Music#-1
+00_Miyuki#"Hey..."#5
+00_Miyuki#"Thank you for listening to me"#7
+00_Miyuki#"You're food should be done by now"#7
+00_Miyuki#"I'll go and get it now"#7
+F#Fade_BG#-1
+NULL#And so, she left you. A minute hasn't past, yet she has already came back.#-1
+F#Fade_BG#0
+00_Miyuki#"Thank you for waiting. here is your order"#5
+NULL#The waitress sets your meal above the table.#0
+00_Miyuki#"Enjoy."#7
+NULL#...#-1
+NULL#This might be the last time you ever eat here again.#-1
+F#Fade_BG#-1
+NULL#And so you eat your food slowly.#-1
+NULL#By eating slowly you can really enjoy the flavor on this plate.#-1
+NULL#Every bite, every slurps, every sips.#-1
+NULL#You want to cherish every part of it.#-1
+NULL#...#-1
+NULL#Even though you eat very slowly, the taste will eventually end.#-1
+NULL#You left half your remaining food for every spoon put into your mouth.#-1
+NULL#Just to extend the time you have left.#-1
+NULL#But alas...#-1
+NULL#...#-1
+F#Fade_BG#0
+NULL#It ends...#-1
+00_Miyuki#"How were your food? I hope you like it."#7
+00_Miyuki#"You can head to the cashier if you want to pay"#7
+NULL#...#-1
+NULL#Even after you left her for a while, you haven't saw the smile she had when you came.#-1
+NULL#"If I could, I would buy another food."#-1
+NULL#You are but a regular salaryman after all, You couldn't afford the luxury of multiple sittings#-1
+NULL#Feeling defeated, you head to the cashier#-1
+NULL#...#-1
+00_Miyuki#"..."#5
+NULL#...#-1
+00_Miyuki#"Please come again."#7
+NULL#As you walk toward the exit, the waitress opened the door and says farewell.#-1
+F#Play_Music#-1
+F#Fade_BG#1
+NULL#As you take a step outside, you wonders.#-1
+NULL#...#-1
+NULL#Can I really help her?#-1
+F#Selection#2
+S#"No, you can't"#239
+S#"Yes, you can"#241
+NULL#...#-1
+F#Jump_to_Line#257
+NULL#...#-1
+CB#MiyukiMissionStart#1
+F#Play_Clip_No_Wait#0
+NULL#Play Food Wars in Free Mode to unlock next chapter#-1
+F#Change_Scene_No_Pref#1
+F#Play_Music#-1
+F#Fade_BG#-1
+NULL#And so, you wait for your food to come.#-1
+NULL#When it came, you immediately eat it.#-1
+NULL#...#-1
+NULL#Even though you finished your food...#-1
+NULL#You don't feel the slightest enjoyment you felt when you first eat here#0
+NULL#You came out of the cafe just like before.#0
+NULL#You noticed the waitress wasn't there when you went out.#0
+NULL#...#0
+F#Jump_to_Line#258
+F#Fade_BG#-1
+NULL#2 Months Later...#0
+NULL#You decided visit the cafe again.#0
+NULL#It's been a while since you do so.#0
+NULL#Many people on the way to go there now.#0
+NULL#"Maybe the cafe became famous somehow"#0
+NULL#You try going there leisurely.#0
+NULL#When you get there, you can't find the cafe there.#0
+F#Play_Music#1
+NULL#Reality strikes, as you realize the cafe had been replaced with new building.#0
+NULL#Suddenly you feel your shoulders begun to drop.#0
+NULL#It become heavy like you carry big boulders.#0
+NULL#The Cafe, 'Cafe Lajoie', is no more...#0
+NULL#It's your fault it happened, you thought to yourself#0
+NULL#Is there any way...?#0
+NULL#You could fix it?#0
+NULL#BAD END#0
+F#Change_Scene_No_Pref#1

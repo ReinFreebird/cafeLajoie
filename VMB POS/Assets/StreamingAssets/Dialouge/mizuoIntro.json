@@ -1,0 +1,1759 @@
+[
+   {
+      "lineIndex":1,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":2,
+      "id":"NULL",
+      "line":"It's mid-afternoon. The sun shines so brightly.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":3,
+      "id":"NULL",
+      "line":"You watch people walk as you sit on a chair in the middle of a shopping district.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":4,
+      "id":"NULL",
+      "line":"While wathcing peoples minding their own bussiness, you just remembered that you haven't had lunch yet.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":5,
+      "id":"NULL",
+      "line":"And so, you are hungry.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":6,
+      "id":"NULL",
+      "line":"You stand up and start wondering around to find a place to eat.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":7,
+      "id":"NULL",
+      "line":"Nothing really catch your eye, until you reach the end of the shopping district.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":8,
+      "id":"NULL",
+      "line":"You saw a small board standing in front of a door made of glass",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":9,
+      "id":"NULL",
+      "line":"Cafe Lajoie.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":10,
+      "id":"NULL",
+      "line":"You don't recall seeing this place before.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":11,
+      "id":"NULL",
+      "line":"Maybe it has only been opened just recently?",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":12,
+      "id":"NULL",
+      "line":"You decided to have lunch in this place.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":13,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"0",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":14,
+      "id":"F",
+      "line":"Play_Clip",
+      "parameter":"1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":15,
+      "id":"Mizuo",
+      "line":"\"Welcome to Cafe Lajoie\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":16,
+      "id":"F",
+      "line":"Play_Music",
+      "parameter":"0",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":17,
+      "id":"NULL",
+      "line":"As you walk through the door, you are greeted by the waiter who waited in front of the door",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":18,
+      "id":"NULL",
+      "line":"Wait, he's wearing a chef's uniform.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":19,
+      "id":"NULL",
+      "line":"Is he the cook here?",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":20,
+      "id":"Mizuo",
+      "line":"\"Oh, you're new here? Do you want to sit on the smoking section or the non-smoking section?\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":21,
+      "id":"NULL",
+      "line":"The waiter/cook(?) asked you in which section you wish to be dining.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":22,
+      "id":"F",
+      "line":"Selection",
+      "parameter":"2",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":23,
+      "id":"S",
+      "line":"\"Smoking Area\"",
+      "parameter":"90",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":24,
+      "id":"S",
+      "line":"\"Non-Smoking Area\"",
+      "parameter":"25",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":25,
+      "id":"Mizuo",
+      "line":"\"Okay, please follow me\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":26,
+      "id":"NULL",
+      "line":"You walk to your table with the waiter guiding you there",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":27,
+      "id":"NULL",
+      "line":"You sat on the chair the waiter guided you to",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":28,
+      "id":"Mizuo",
+      "line":"\"Here's the menu.\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":29,
+      "id":"NULL",
+      "line":"The waiter handed you the menu.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":30,
+      "id":"Mizuo",
+      "line":"\"Well, I'll leave you alone for now.\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":31,
+      "id":"Mizuo",
+      "line":"\"Just call me when you are done choosing\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":32,
+      "id":"NULL",
+      "line":"The waiter left you. You open the menu to see what they are serving.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":33,
+      "id":"NULL",
+      "line":"It turns out that they don't really serve much food.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":34,
+      "id":"NULL",
+      "line":"They only had 2 main dishes, which are Curry Rice and Ramen noodle.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":35,
+      "id":"NULL",
+      "line":"A pretty standard food for a lovely place like this.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":36,
+      "id":"NULL",
+      "line":"Not to mention this place name, Lajoie. In French it translates to The Joy.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":37,
+      "id":"NULL",
+      "line":"You're not sure you feel any joy coming out from this place",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":38,
+      "id":"NULL",
+      "line":"Perhaps it's because you're the only one here at this moment.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":39,
+      "id":"NULL",
+      "line":"Well, we shouldn't be too quick to judge.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":40,
+      "id":"NULL",
+      "line":"With so little option you can choose, you decide to call the waiter to take your order.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":41,
+      "id":"Mizuo",
+      "line":"\"So, what will you have today?\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":42,
+      "id":"F",
+      "line":"Jump_to_Line",
+      "parameter":"45",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":43,
+      "id":"Mizuo",
+      "line":"\"Waffles? Sorry, we don't have that at this moment\"",
+      "parameter":"2",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":44,
+      "id":"Mizuo",
+      "line":"\"How about choosing the ones that in the menu?\"",
+      "parameter":"2",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":45,
+      "id":"F",
+      "line":"Selection",
+      "parameter":"3",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":46,
+      "id":"S",
+      "line":"\"Curry Rice\"",
+      "parameter":"49",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":47,
+      "id":"S",
+      "line":"\"Ramen Noodle\"",
+      "parameter":"51",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":48,
+      "id":"S",
+      "line":"\"WAAAAFFFLEEEESSS!!!!!\"",
+      "parameter":"43",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":49,
+      "id":"Mizuo",
+      "line":"\"Curry Rice? Okay then\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":50,
+      "id":"F",
+      "line":"Jump_to_Line",
+      "parameter":"52",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":51,
+      "id":"Mizuo",
+      "line":"\"Ramen Noodle? Okay then\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":52,
+      "id":"NULL",
+      "line":"The waiter writes your order in his order book.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":53,
+      "id":"Mizuo",
+      "line":"\"Okay, I'll head to the kitchen you make your food now\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":54,
+      "id":"Mizuo",
+      "line":"\"It won't take too long, so be patient okay\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":55,
+      "id":"NULL",
+      "line":"You were right, he is the one who cooks for this cafe",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":56,
+      "id":"NULL",
+      "line":"Not just that, he also act as a waiter",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":57,
+      "id":"NULL",
+      "line":"Maybe this place is running low on peoples",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":58,
+      "id":"NULL",
+      "line":"Besides me and the cook,there's only the cashier here",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":59,
+      "id":"NULL",
+      "line":"Why couldn't the cashier serve me, instead of the cook?",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":60,
+      "id":"NULL",
+      "line":"Now you're just thinking to much, you'll ended up not enjoying your lunch here",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":61,
+      "id":"NULL",
+      "line":"Now then , it's time you wait for your meal to come.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":62,
+      "id":"NULL",
+      "line":"You casually open your phone, trying to distract yourself.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":63,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"-1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":64,
+      "id":"NULL",
+      "line":"And so you wait.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":65,
+      "id":"NULL",
+      "line":"",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":66,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"0",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":67,
+      "id":"Mizuo",
+      "line":"\"Here's you food\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":68,
+      "id":"NULL",
+      "line":"The cook sets your meal above the table.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":69,
+      "id":"NULL",
+      "line":"It look simple, but the smell is good",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":70,
+      "id":"Mizuo",
+      "line":"\"Enjoy.\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":71,
+      "id":"NULL",
+      "line":"There's nothing left to say, time to chow down.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":72,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"-1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":73,
+      "id":"NULL",
+      "line":"The food is good. Just like how it smells, it taste good also",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":74,
+      "id":"NULL",
+      "line":"You ended up devouring your food.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":75,
+      "id":"NULL",
+      "line":"You just can't help yourself by the deliciousness of the meal you're eating.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":76,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"0",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":77,
+      "id":"NULL",
+      "line":"Without you realizing it, you have finished your food.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":78,
+      "id":"NULL",
+      "line":"You didn't want to stay too long, so you headed straight to the cashier",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":79,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"-1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":80,
+      "id":"NULL",
+      "line":"",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":81,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"0",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":82,
+      "id":"Mizuo",
+      "line":"\"Please come again.\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":83,
+      "id":"NULL",
+      "line":"The cook calls you out from the kitchen. He's cooking food for another customer that came a while ago",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":84,
+      "id":"NULL",
+      "line":"It was not much, but eating out here really.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":85,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"-1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":86,
+      "id":"NULL",
+      "line":"As you take a step outside, you wonders.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":87,
+      "id":"NULL",
+      "line":"...",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":88,
+      "id":"NULL",
+      "line":"Maybe I should come here more often",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":89,
+      "id":"F",
+      "line":"Jump_to_Line",
+      "parameter":"251",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":90,
+      "id":"Mizuo",
+      "line":"\"Okay, please follow me\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":91,
+      "id":"NULL",
+      "line":"You walk to your table with the waiter guiding you there",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":92,
+      "id":"NULL",
+      "line":"You sat on the chair the waiter guided you to",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":93,
+      "id":"Mizuo",
+      "line":"\"Here's the menu.\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":94,
+      "id":"NULL",
+      "line":"The waiter handed you the menu.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":95,
+      "id":"Mizuo",
+      "line":"\"Well, I'll leave you alone for now.\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":96,
+      "id":"Mizuo",
+      "line":"\"Just call me when you are done choosing\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":97,
+      "id":"NULL",
+      "line":"The waiter left you. You open the menu to see what they are serving.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":98,
+      "id":"NULL",
+      "line":"It turns out that they don't really serve much food.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":99,
+      "id":"NULL",
+      "line":"They only had 2 main dishes, which are Curry Rice and Ramen noodle.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":100,
+      "id":"NULL",
+      "line":"A pretty standard food for a lovely place like this.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":101,
+      "id":"NULL",
+      "line":"Not to mention this place name, Lajoie. In French it translates to The Joy.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":102,
+      "id":"NULL",
+      "line":"You're not sure you feel any joy coming out from this place",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":103,
+      "id":"NULL",
+      "line":"Perhaps it's because you're the only one here at this moment.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":104,
+      "id":"NULL",
+      "line":"Well, we shouldn't be too quick to judge.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":105,
+      "id":"NULL",
+      "line":"With so little option you can choose, you decide to call the waiter to take your order.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":106,
+      "id":"Mizuo",
+      "line":"\"So, what will you have today?\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":107,
+      "id":"F",
+      "line":"Jump_to_Line",
+      "parameter":"110",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":108,
+      "id":"Mizuo",
+      "line":"\"Waffles? Sorry, we don't have that at this moment\"",
+      "parameter":"2",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":109,
+      "id":"Mizuo",
+      "line":"\"How about choosing the ones that in the menu?\"",
+      "parameter":"2",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":110,
+      "id":"F",
+      "line":"Selection",
+      "parameter":"3",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":111,
+      "id":"S",
+      "line":"\"Curry Rice\"",
+      "parameter":"114",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":112,
+      "id":"S",
+      "line":"\"Ramen Noodle\"",
+      "parameter":"116",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":113,
+      "id":"S",
+      "line":"\"WAAAAFFFLEEEESSS!!!!!\"",
+      "parameter":"108",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":114,
+      "id":"Mizuo",
+      "line":"\"Curry Rice? Okay then\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":115,
+      "id":"F",
+      "line":"Jump_to_Line",
+      "parameter":"118",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":116,
+      "id":"Mizuo",
+      "line":"\"Ramen Noodle? Okay then\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":117,
+      "id":"NULL",
+      "line":"The waiter writes your order in his order book.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":118,
+      "id":"Mizuo",
+      "line":"\"Okay, I'll head to the kitchen you make your food now\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":119,
+      "id":"Mizuo",
+      "line":"\"It won't take too long, so be patient okay\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":120,
+      "id":"NULL",
+      "line":"You were right, he is the one who cooks for this cafe",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":121,
+      "id":"NULL",
+      "line":"Not just that, he also act as a waiter",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":122,
+      "id":"NULL",
+      "line":"Maybe this place is running low on peoples",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":123,
+      "id":"NULL",
+      "line":"Besides me and the cook,there's only the cashier here",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":124,
+      "id":"NULL",
+      "line":"Why couldn't the cashier serve me, instead of the cook?",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":125,
+      "id":"NULL",
+      "line":"Now you're just thinking to much, you'll ended up not enjoying your lunch here",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":126,
+      "id":"NULL",
+      "line":"Now then , it's time you wait for your meal to come.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":127,
+      "id":"NULL",
+      "line":"You casually open your phone, trying to distract yourself.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":128,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"-1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":129,
+      "id":"NULL",
+      "line":"And so you wait.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":130,
+      "id":"NULL",
+      "line":"",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":131,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"0",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":132,
+      "id":"Mizuo",
+      "line":"\"Here's you food\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":133,
+      "id":"NULL",
+      "line":"The cook sets your meal above the table.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":134,
+      "id":"NULL",
+      "line":"It look simple, but the smell is good",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":135,
+      "id":"Mizuo",
+      "line":"\"Hey, if you don't mind...\"",
+      "parameter":"2",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":136,
+      "id":"NULL",
+      "line":"It appears the chef has something to say",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":137,
+      "id":"Mizuo",
+      "line":"\"Can I by any chance sit with you?\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":138,
+      "id":"Mizuo",
+      "line":"\"Not a lot of people come here at this hour\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":139,
+      "id":"Mizuo",
+      "line":"\"In fact, people rarely go out to eat here in the first place\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":140,
+      "id":"Mizuo",
+      "line":"\"It would be nice if we could chat for a bit\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":141,
+      "id":"F",
+      "line":"Selection",
+      "parameter":"2",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":142,
+      "id":"S",
+      "line":"\"Sure, why not?\"",
+      "parameter":"150",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":143,
+      "id":"S",
+      "line":"\"Sorry, but no\"",
+      "parameter":"144",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":144,
+      "id":"Mizuo",
+      "line":"\"Ah, I see...\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":145,
+      "id":"NULL",
+      "line":"He seems to be disappointed",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":146,
+      "id":"Mizuo",
+      "line":"\"Sorry to bother you then\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":147,
+      "id":"Mizuo",
+      "line":"\"I'll go back to the kitchen now\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":148,
+      "id":"NULL",
+      "line":"And so the cook left you and head toward the kitchen",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":149,
+      "id":"F",
+      "line":"Jump_to_Line",
+      "parameter":"71",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":150,
+      "id":"Mizuo",
+      "line":"\"Great\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":151,
+      "id":"NULL",
+      "line":"The cook sit in the chair in front of where you are sitting now\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":152,
+      "id":"Mizuo",
+      "line":"\"Ah, where are my manners, I haven't introduce my self\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":153,
+      "id":"Mizuo",
+      "line":"\"I'm Mizuo. As can see, I'm the chef here\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":154,
+      "id":"Mizuo",
+      "line":"\"Nice to meet you\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":155,
+      "id":"NULL",
+      "line":"At first sight you thought he looked like some punk that you see on TV",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":156,
+      "id":"NULL",
+      "line":"You know, the one with the chains as their belt",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":157,
+      "id":"NULL",
+      "line":"The truth is, looks can be deceiving",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":158,
+      "id":"NULL",
+      "line":"Even with just a minute of talking with him you knew he is a nice guy",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":159,
+      "id":"NULL",
+      "line":"Looks like you've just made yourself a new aqcuintance",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":160,
+      "id":"Mizuo",
+      "line":"\"So...\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":161,
+      "id":"Mizuo",
+      "line":"\"Why did you decide to go out and eat here anyway?\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":162,
+      "id":"Mizuo",
+      "line":"\"You know there's a lot of other place to eat in this district\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":163,
+      "id":"Mizuo",
+      "line":"\"Why here?\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":164,
+      "id":"F",
+      "line":"Selection",
+      "parameter":"3",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":165,
+      "id":"S",
+      "line":"\"I just got intrested\"",
+      "parameter":"168",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":166,
+      "id":"S",
+      "line":"\"I'm not really  sure\"",
+      "parameter":"171",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":167,
+      "id":"S",
+      "line":"\"I don't know, because I'm hungry?\"",
+      "parameter":"174",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":168,
+      "id":"Mizuo",
+      "line":"\"I see\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":169,
+      "id":"Mizuo",
+      "line":"\"Hope you're not disappointed this far\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":170,
+      "id":"F",
+      "line":"Jump_to_Line",
+      "parameter":"179",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":171,
+      "id":"Mizuo",
+      "line":"\"Not sure?\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":172,
+      "id":"Mizuo",
+      "line":"\"That's fine I guess\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":173,
+      "id":"F",
+      "line":"Jump_to_Line",
+      "parameter":"179",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":174,
+      "id":"Mizuo",
+      "line":"\"Haha, You don't say\"",
+      "parameter":"2",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":175,
+      "id":"Mizuo",
+      "line":"\"I don't breath if I don't want to, cool right?\"",
+      "parameter":"2",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":176,
+      "id":"NULL",
+      "line":"You got roasted. get rekt m8",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":177,
+      "id":"Mizuo",
+      "line":"\"Well, you might want to eat your food before it gets cold\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":178,
+      "id":"Mizuo",
+      "line":"\"We can continue our chat after you finish eating.\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":179,
+      "id":"NULL",
+      "line":"Oh yeah, he is right. You completly forgot that your food has arrived",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":180,
+      "id":"NULL",
+      "line":"Now You feel truly hungry after talking with Mizuo for a bit",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":181,
+      "id":"NULL",
+      "line":"Well, let's eat then",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":182,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"-1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":183,
+      "id":"NULL",
+      "line":"The food is good. Just like how it smells, it taste good also",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":184,
+      "id":"NULL",
+      "line":"You ended up devouring your food.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":185,
+      "id":"NULL",
+      "line":"You just can't help yourself by the deliciousness of the meal you're eating.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":186,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"0",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":187,
+      "id":"NULL",
+      "line":"Without you realizing it, you have finished your food.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":188,
+      "id":"NULL",
+      "line":"You can still taste the food even after you're finished eating",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":189,
+      "id":"Mizuo",
+      "line":"\"How does your meal tastes? Do you like it?\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":190,
+      "id":"F",
+      "line":"Selection",
+      "parameter":"3",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":191,
+      "id":"S",
+      "line":"\"Yeah, it was nice\"",
+      "parameter":"194",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":192,
+      "id":"S",
+      "line":"\"It's okay\"",
+      "parameter":"197",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":193,
+      "id":"S",
+      "line":"\"Meh...\"",
+      "parameter":"200",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":194,
+      "id":"Mizuo",
+      "line":"\"Is that so?\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":195,
+      "id":"Mizuo",
+      "line":"\"I'm glad you like it\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":196,
+      "id":"F",
+      "line":"Jump_to_Line",
+      "parameter":"202",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":197,
+      "id":"Mizuo",
+      "line":"\"Is that so?\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":198,
+      "id":"Mizuo",
+      "line":"\"Well, that's fine I guess\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":199,
+      "id":"F",
+      "line":"Jump_to_Line",
+      "parameter":"202",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":200,
+      "id":"Mizuo",
+      "line":"\"Is that so?\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":201,
+      "id":"Mizuo",
+      "line":"\"Guess I have to try harder then\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":202,
+      "id":"Mizuo",
+      "line":"\"...\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":203,
+      "id":"Mizuo",
+      "line":"\"Hey, you're not in a hurry or anything right?\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":204,
+      "id":"Mizuo",
+      "line":"\"I got a deck of card with me\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":205,
+      "id":"Mizuo",
+      "line":"\"Well, I don't know much about card game though\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":206,
+      "id":"Mizuo",
+      "line":"\"Do you wanna play high and low with me? It's a pretty simple game\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":207,
+      "id":"F",
+      "line":"Selection",
+      "parameter":"2",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":208,
+      "id":"S",
+      "line":"\"Sure\"",
+      "parameter":"210",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":209,
+      "id":"S",
+      "line":"\"Sorry, next time maybe?\"",
+      "parameter":"226",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":210,
+      "id":"Mizuo",
+      "line":"\"Great\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":211,
+      "id":"Mizuo",
+      "line":"\"Well, let's play then\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":212,
+      "id":"F",
+      "line":"Play_Music",
+      "parameter":"-1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":213,
+      "id":"NULL",
+      "line":"And so, You and Mizuo play a card game together",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":214,
+      "id":"F",
+      "line":"Change_Scene_With_Pref",
+      "parameter":"4",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":215,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"0",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":216,
+      "id":"F",
+      "line":"Play_Music",
+      "parameter":"0",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":217,
+      "id":"Mizuo",
+      "line":"\"Great, you won\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":218,
+      "id":"Mizuo",
+      "line":"\"How was it? Do you enjoyed it?\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":219,
+      "id":"F",
+      "line":"Jump_to_Line",
+      "parameter":"226",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":220,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"0",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":221,
+      "id":"F",
+      "line":"Play_Music",
+      "parameter":"0",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":222,
+      "id":"Mizuo",
+      "line":"\"Too bad, you lost\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":223,
+      "id":"Mizuo",
+      "line":"\"Better luck next time\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":224,
+      "id":"F",
+      "line":"Jump_to_Line",
+      "parameter":"226",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":225,
+      "id":"Mizuo",
+      "line":"\"Ah, is that so? Okay then\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":226,
+      "id":"F",
+      "line":"Play_Clip",
+      "parameter":"1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":227,
+      "id":"NULL",
+      "line":"You heard the bell in the entrance door rang.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":228,
+      "id":"Mizuo",
+      "line":"\"Wow, did I just heard someone entering?\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":229,
+      "id":"Mizuo",
+      "line":"\"Well, I better go back to the kitchen I guess\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":230,
+      "id":"NULL",
+      "line":"Mizuo left you and head back to the kitchen",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":231,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"-1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":232,
+      "id":"NULL",
+      "line":"Since you have no business left in here, you decided to head to the cashier to pay your bill\"",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":233,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"0",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":234,
+      "id":"NULL",
+      "line":"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":235,
+      "id":"Mizuo",
+      "line":"\"Hey, see you around\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":236,
+      "id":"NULL",
+      "line":"Mizuo calls you out from the kitchen. He's cooking food for another customer that came a while ago",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":237,
+      "id":"NULL",
+      "line":"It was not much, but eating out here really.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":238,
+      "id":"NULL",
+      "line":"Well, plus you just got yourself a new friend",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":239,
+      "id":"NULL",
+      "line":"He seems to be looking forward to your next meeting",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":240,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":241,
+      "id":"NULL",
+      "line":"As you take a step outside, you wonders.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":242,
+      "id":"NULL",
+      "line":"...",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":243,
+      "id":"NULL",
+      "line":"Why does the food he made really good?",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":244,
+      "id":"NULL",
+      "line":"\"This is the developer speaking\" ",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":245,
+      "id":"NULL",
+      "line":"\"This part of the game has not finished yet.\" ",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":246,
+      "id":"NULL",
+      "line":"\"That being said, you can go ahead and play Miyuki's story, which are more done than this one.\" ",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":247,
+      "id":"F",
+      "line":"Play_Clip_No_Wait",
+      "parameter":"0",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":248,
+      "id":"NULL",
+      "line":"\"Also, you can now play High and Low in free mode\"",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":249,
+      "id":"CCG",
+      "line":"RewardArray",
+      "parameter":"3",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":250,
+      "id":"CB",
+      "line":"HnLUnlocked",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":251,
+      "id":"F",
+      "line":"Change_Scene_No_Pref",
+      "parameter":"1",
+      "functionTrue":true
+   }
+]

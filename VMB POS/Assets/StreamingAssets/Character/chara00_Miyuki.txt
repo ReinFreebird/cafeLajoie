@@ -1,0 +1,4 @@
+﻿00_Miyuki
+Miyuki
+00_Miyuki0/00_Miyuki1/00_Miyuki2/00_Miyuki3/00_Miyuki4/00_Miyuki5/00_Miyuki6/00_Miyuki7/00_Miyuki8/00_Miyuki9
+//Line1 Chara ID, Line2 name, Line3 Sprite array
