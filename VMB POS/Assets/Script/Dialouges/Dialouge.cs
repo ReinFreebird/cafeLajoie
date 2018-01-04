@@ -27,7 +27,7 @@ public class Dialouge:MonoBehaviour{
 		string path;
 		string charaID;
 		if(Application.platform == RuntimePlatform.Android){// if running in android
-			path = "jar:file://" + Application.dataPath + "!/assets/Dialouge/";
+			path = "jar:file://" + Application.dataPath + "!/assets/Dialouge/jSon";
 			this.fileName = path+""+fileName+".json";
 			url = new WWW (this.fileName);
 			while (!url.isDone) {
@@ -124,9 +124,9 @@ public class Dialouge:MonoBehaviour{
 			//charaID//"Line""//Sprite
 
 			//Convert txt into json
-			//jSon = JsonMapper.ToJson (linesJson);
-			//Debug.Log (jSon);
-			//File.WriteAllText (Application.dataPath + "/"+fileName+".json", jSon.ToString ());
+			jSon = JsonMapper.ToJson (linesJson);
+			Debug.Log (jSon);
+			File.WriteAllText (Application.dataPath + "/"+fileName+".json", jSon.ToString ());
 			}
 		}
 	public string getFileName(){

@@ -1,0 +1,604 @@
+[
+   {
+      "lineIndex":1,
+      "id":"NULL",
+      "line":"6 AM, Shopping District.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":2,
+      "id":"NULL",
+      "line":"It's morning. The sun is barely up yet.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":3,
+      "id":"NULL",
+      "line":"It's pretty lonely here.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":4,
+      "id":"NULL",
+      "line":"Not a lot of people came to the shopping district this early.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":5,
+      "id":"NULL",
+      "line":"As for me, this has become my routine for almost two years already.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":6,
+      "id":"NULL",
+      "line":"Ever since I left home and live alone in the city, I've been fighting every day just to stay alive.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":7,
+      "id":"NULL",
+      "line":"The first 3 months here I couldn't get a job.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":8,
+      "id":"NULL",
+      "line":"I knew I couldn't keep it that way, so I did what I could do.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":9,
+      "id":"NULL",
+      "line":"I decided to start my own business.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":10,
+      "id":"NULL",
+      "line":"Got a leverage from a friend working at a bank to help me get some loan money.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":11,
+      "id":"NULL",
+      "line":"And so, start a business I did.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":12,
+      "id":"NULL",
+      "line":"A small cafe, in a very crowded shopping district.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":13,
+      "id":"NULL",
+      "line":"Cafe Lajoie.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":14,
+      "id":"NULL",
+      "line":"...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":15,
+      "id":"NULL",
+      "line":"At this point you're probably had enough of hearing that.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":16,
+      "id":"NULL",
+      "line":"Not gonna bother explaining that anything further.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":17,
+      "id":"NULL",
+      "line":"So anyways...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":18,
+      "id":"NULL",
+      "line":"It is now my obligation to keep the business going.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":19,
+      "id":"NULL",
+      "line":"I started it in the first place.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":20,
+      "id":"NULL",
+      "line":"And so,it's only natural for me to come here early every day.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":21,
+      "id":"NULL",
+      "line":"Only after a minute of walk, I've arrived at the front of the cafe.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":22,
+      "id":"NULL",
+      "line":"No one's is inside yet, that much is not surprising.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":23,
+      "id":"NULL",
+      "line":"\"..heeyy...\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":24,
+      "id":"NULL",
+      "line":"There is something surprising though...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":25,
+      "id":"NULL",
+      "line":"I heard a familiar voice calling out to me.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":26,
+      "id":"NULL",
+      "line":"It couldn't be anyone else.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":27,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"5",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":28,
+      "id":"F",
+      "line":"Play_Music",
+      "parameter":"0",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":29,
+      "id":"Miyuki",
+      "line":"\"Good morning, Master.\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":30,
+      "id":"Mizuo",
+      "line":"\"Ah, morning.\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":31,
+      "id":"NULL",
+      "line":"It really is them.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":32,
+      "id":"NULL",
+      "line":"These are my employees.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":33,
+      "id":"NULL",
+      "line":"Wait, it's not right calling them that.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":34,
+      "id":"NULL",
+      "line":"Ally? Peer? Comrade?",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":35,
+      "id":"NULL",
+      "line":"Well, you could say they are my most trusted people.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":36,
+      "id":"NULL",
+      "line":"Miyuki the waiter, and Mizuo the Chef.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":37,
+      "id":"NULL",
+      "line":"They have been there since this cafe opened.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":38,
+      "id":"NULL",
+      "line":"In fact, they are the only ones that are still here with me.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":39,
+      "id":"NULL",
+      "line":"From the start, until now.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":40,
+      "id":"NULL",
+      "line":"I knew it would be tough running a business only with will and guts.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":41,
+      "id":"NULL",
+      "line":"Even so, I went through it, we all did.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":42,
+      "id":"NULL",
+      "line":"Not a lot of people came here.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":43,
+      "id":"NULL",
+      "line":"The money we got each month are barely enough to pay these two, let alone getting a profit out of it.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":44,
+      "id":"NULL",
+      "line":"Paying up loan money is a whole another story, not gonna go there today.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":45,
+      "id":"NULL",
+      "line":"It was never a fine day, you know how it feel when nothing is going right for you?",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":46,
+      "id":"NULL",
+      "line":"That happened to me.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":47,
+      "id":"NULL",
+      "line":"Things got from bad to worse for almost a year.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":48,
+      "id":"NULL",
+      "line":"We barely got any customer.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":49,
+      "id":"NULL",
+      "line":"We almost had to close up business just to keep this ship afloat.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":50,
+      "id":"NULL",
+      "line":"Does that even make any sense?.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":51,
+      "id":"NULL",
+      "line":"I don't even know, not that I care anymore.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":52,
+      "id":"NULL",
+      "line":"So yeah...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":53,
+      "id":"NULL",
+      "line":"...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":54,
+      "id":"Miyuki",
+      "line":"\"How are you this morning?\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":55,
+      "id":"Mizuo",
+      "line":"\"Well you know him, nothing stops our main man.\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":56,
+      "id":"NULL",
+      "line":"Suddenly things finally turned for the best.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":57,
+      "id":"NULL",
+      "line":"People starts coming, money starts flowing.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":58,
+      "id":"NULL",
+      "line":"How could this had happen actually?.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":59,
+      "id":"NULL",
+      "line":"I don't know, let's just call it 'Deus Ex Machine'.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":60,
+      "id":"NULL",
+      "line":"If this continues, we might break even by the end of next year.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":61,
+      "id":"NULL",
+      "line":"But we can't just pull our leg from the pedals just yet.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":62,
+      "id":"NULL",
+      "line":"I have to keep doing my best.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":63,
+      "id":"NULL",
+      "line":"For the customers, for these too as well.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":64,
+      "id":"Miyuki",
+      "line":"\"Hope you're ready today, there will be a lot of customers coming today\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":65,
+      "id":"Mizuo",
+      "line":"\"We're ready anytime, just say the word.\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":66,
+      "id":"NULL",
+      "line":"Yes, I could have give up a long time ago.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":67,
+      "id":"NULL",
+      "line":"But I didn't.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":68,
+      "id":"NULL",
+      "line":"Yes, I could just go back to my family.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":69,
+      "id":"NULL",
+      "line":"But I didn't.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":70,
+      "id":"NULL",
+      "line":"You know why?",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":71,
+      "id":"NULL",
+      "line":"Because it's my choice.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":72,
+      "id":"NULL",
+      "line":"I choose this live, and I'm intended to see it through.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":73,
+      "id":"NULL",
+      "line":"I knew everything is going to be okay.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":74,
+      "id":"NULL",
+      "line":"And when it does, I knew I  would be the happiest man in the world.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":75,
+      "id":"NULL",
+      "line":"Because through all these...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":76,
+      "id":"NULL",
+      "line":"...I did it, in mind that because I choose it.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":77,
+      "id":"NULL",
+      "line":"I lived my life the way I want it.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":78,
+      "id":"NULL",
+      "line":"I did it my way.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":79,
+      "id":"NULL",
+      "line":"That's all I could ever hope in my life.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":80,
+      "id":"NULL",
+      "line":"Nothing more, nothing less.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":81,
+      "id":"NULL",
+      "line":"EXTRA END",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":82,
+      "id":"NULL",
+      "line":"Thank you for playing Cafe Lajoie",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":83,
+      "id":"F",
+      "line":"Play_Clip_No_Wait",
+      "parameter":"0",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":84,
+      "id":"NULL",
+      "line":"\"CG has been unlocked\"",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":85,
+      "id":"CCG",
+      "line":"CGArray",
+      "parameter":"2",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":86,
+      "id":"F",
+      "line":"Change_Scene_No_Pref",
+      "parameter":"1",
+      "functionTrue":true
+   }
+]

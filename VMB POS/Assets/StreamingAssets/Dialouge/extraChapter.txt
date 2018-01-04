@@ -1,43 +1,86 @@
-﻿NULL#"Dear Father"#-1
-NULL#"I know your probably surprised to find me writing this letter to you."#-1
-NULL#"You would be more surprised that anyone still use letters to communicate in these days and age."#-1
-NULL#"I know I could have text you something or send you mail via web..."#-1
-NULL#"... not that we often exchange words in the first place."#-1
-NULL#"In fact, perhaps that's the main reason I decided to write you this."#-1
-NULL#"How's Mom? I hope she's doing all right."#-1
-NULL#"..."#-1
-F#Play_Music#3
-NULL#"Do you remember four years ago, when Grandma just passed away?"#-1
-NULL#"It was one of the toughest periods of my life."#-1
-NULL#"Mom and the other were there, mourning for a whole day."#-1
-NULL#"Not you..."#-1
-NULL#"You didn't even bother to come, showing up only one month later when everthing's said and done."#-1
-NULL#"You were on a very important business trip, you said."#-1
-NULL#"So important that you didn't have time to mourn your now passed mother?"#-1
-NULL#"I couldn't comprehend how you were able to do so."#-1
-NULL#"Even now I'm still strugling to get it."#-1
-NULL#"Though recently, I'm beginning to understand."#-1
-NULL#"..."#-1
-NULL#"You know pretty well about my decision to get out of home and start living by myself."#-1
-NULL#"I mean, for once you were there, weren't you?."#-1
-NULL#"You always hoped I would start working for the company you ran when I finished highschool."#-1
-NULL#"You kindly enough to secure me a job at an entry job position."#-1
-NULL#"You hoped that I'd comply obediently."#-1
-NULL#"Unfortunately, I rejected."#-1
-NULL#"I just couldn't see myself working with, let alone under you."#-1
-NULL#"Not after all those time you put me and Mom through."#-1
-NULL#"You expect me be there for you, when all you cared was your company and how much money it worth."#-1
-NULL#"You saw me only as a way to get cheap labor for your workforce."#-1
-NULL#"Worst of all, you didn't even tell me until I have already decided on what to do with my live."#-1
-NULL#"To your disapproval, I walk out of the door to start my on live."#-1
-NULL#"I was ."#-1
-F#Fade_BG#1
-NULL#I must be honest, starting a new cafe by yourself is not an easy task.#-1
-NULL#Not only you have to prepare the concept of the place, there are other stuff you have to take care of too.#-1
-NULL#Space leasing, paperworks, administrative things, etc.#-1
-NULL#It was a tough first weeks of opening.#-1
-NULL#It has been been a tough weeks, months even.#-1
-NULL#We almost had to close business for good.#-1
-00_Miyuki#"Master~~~"#0
-NULL#From afar, I heard a familiar voice calling out to me.#-1
-01_Mizuo#"Welcome"#1
+﻿NULL#6 AM, Shopping District.#0
+NULL#It's morning. The sun is barely up yet.#0
+NULL#It's pretty lonely here.#0
+NULL#Not a lot of people came to the shopping district this early.#0
+NULL#As for me, this has become my routine for almost two years already.#0
+NULL#Ever since I left home and live alone in the city, I've been fighting every day just to stay alive.#0
+NULL#The first 3 months here I couldn't get a job.#0
+NULL#I knew I couldn't keep it that way, so I did what I could do.#0
+NULL#I decided to start my own business.#0
+NULL#Got a leverage from a friend working at a bank to help me get some loan money.#0
+NULL#And so, start a business I did.#0
+NULL#A small cafe, in a very crowded shopping district.#0
+NULL#Cafe Lajoie.#0
+NULL#...#0
+NULL#At this point you're probably had enough of hearing that.#0
+NULL#Not gonna bother explaining that anything further.#0
+NULL#So anyways...#0
+NULL#It is now my obligation to keep the business going.#0
+NULL#I started it in the first place.#0
+NULL#And so,it's only natural for me to come here early every day.#0
+NULL#Only after a minute of walk, I've arrived at the front of the cafe.#0
+NULL#No one's is inside yet, that much is not surprising.#0
+NULL#"..heeyy..."#0
+NULL#There is something surprising though...#0
+NULL#I heard a familiar voice calling out to me.#0
+NULL#It couldn't be anyone else.#0
+F#Fade_BG#5
+F#Play_Music#0
+00_Miyuki#"Good morning, Master."#0
+01_Mizuo#"Ah, morning."#0
+NULL#It really is them.#0
+NULL#These are my employees.#0
+NULL#Wait, it's not right calling them that.#0
+NULL#Ally? Peer? Comrade?#0
+NULL#Well, you could say they are my most trusted people.#0
+NULL#Miyuki the waiter, and Mizuo the Chef.#0
+NULL#They have been there since this cafe opened.#0
+NULL#In fact, they are the only ones that are still here with me.#0
+NULL#From the start, until now.#0
+NULL#I knew it would be tough running a business only with will and guts.#0
+NULL#Even so, I went through it, we all did.#0
+NULL#Not a lot of people came here.#0
+NULL#The money we got each month are barely enough to pay these two, let alone getting a profit out of it.#0
+NULL#Paying up loan money is a whole another story, not gonna go there today.#0
+NULL#It was never a fine day, you know how it feel when nothing is going right for you?#0
+NULL#That happened to me.#0
+NULL#Things got from bad to worse for almost a year.#0
+NULL#We barely got any customer.#0
+NULL#We almost had to close up business just to keep this ship afloat.#0
+NULL#Does that even make any sense?.#0
+NULL#I don't even know, not that I care anymore.#0
+NULL#So yeah...#0
+NULL#...#0
+00_Miyuki#"How are you this morning?"#0
+01_Mizuo#"Well you know him, nothing stops our main man."#0
+NULL#Suddenly things finally turned for the best.#0
+NULL#People starts coming, money starts flowing.#0
+NULL#How could this had happen actually?.#0
+NULL#I don't know, let's just call it 'Deus Ex Machine'.#0
+NULL#If this continues, we might break even by the end of next year.#0
+NULL#But we can't just pull our leg from the pedals just yet.#0
+NULL#I have to keep doing my best.#0
+NULL#For the customers, for these too as well.#0
+00_Miyuki#"Hope you're ready today, there will be a lot of customers coming today"#0
+01_Mizuo#"We're ready anytime, just say the word."#0
+NULL#Yes, I could have give up a long time ago.#0
+NULL#But I didn't.#0
+NULL#Yes, I could just go back to my family.#0
+NULL#But I didn't.#0
+NULL#You know why?#0
+NULL#Because it's my choice.#0
+NULL#I choose this live, and I'm intended to see it through.#0
+NULL#I knew everything is going to be okay.#0
+NULL#And when it does, I knew I  would be the happiest man in the world.#0
+NULL#Because through all these...#0
+NULL#...I did it, in mind that because I choose it.#0
+NULL#I lived my life the way I want it.#0
+NULL#I did it my way.#0
+NULL#That's all I could ever hope in my life.#0
+NULL#Nothing more, nothing less.#0
+NULL#EXTRA END#-1
+NULL#Thank you for playing Cafe Lajoie#-1
+F#Play_Clip_No_Wait#0
+NULL#"CG has been unlocked"#-1
+CCG#CGArray#2
+F#Change_Scene_No_Pref#1

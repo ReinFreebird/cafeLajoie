@@ -126,26 +126,9 @@ NULL#You, with the waitress of Cafe Lajoie...#-1
 NULL#...Whom you still not now her name yet.#-1
 00_Miyuki#"..."#0
 NULL#...#-1
-F#Play_Music#-1
-NULL#"Hah! Who am I kidding? Ofcourse you knew already." #-1
-NULL#"Her name is Miyuki." #-1
-NULL#"Surely you realized by now everytime she speaks you can see her name above this window right?" #-1
-NULL#"Her name was in the main menu too." #-1
-NULL#"It's humanly imposible for you to miss it." #-1
-NULL#"Right, Player-san?" #-1
-NULL#"..." #-1
-NULL#"Anyways..." #-1
-NULL#"This is the developer speaking" #-1
-NULL#"This is the end of Cafe Lajoie v. 0.1" #-1
-NULL#"Credits to my Friends, Leoni for her work on the Character Sprites and CG(+ Dialouge background) " #-1
-NULL#"Mahendra for helping me with the story, Christian for the menu layout and buttons, my sister for coloring the character sprites" #-1
-NULL#"Music made by Kevin MacLeod(Main theme and Miyuki's theme), ReinFreebird (Others)" #-1
-NULL#"Backround are made by Uncle Mugen (Mostly)" #-1
-NULL#"And the other resource I wasn't able to put credits on." #-1
-NULL#"Last, but not least, thank you to you, Player-san." #-1
-NULL#"See you in the next update." #-1
+NULL#MIYUKI END#-1
 F#Play_Clip_No_Wait#0
-NULL#"Also, you have unlocked a CG and a Reward. Make sure to check those out"#-1
+NULL#"CG has been unlocked"#-1
 CCG#RewardArray#2
 CCG#CGArray#0
 F#Change_Scene_No_Pref#1

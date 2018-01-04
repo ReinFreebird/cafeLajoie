@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scene/Converstion.unity
+- path: Assets/Scene/HighAndLowV2.unity
   isLoaded: 1
   isActive: 1

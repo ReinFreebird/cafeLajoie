@@ -1,0 +1,2011 @@
+[
+   {
+      "lineIndex":1,
+      "id":"NULL",
+      "line":"Few days later...",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":2,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"2",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":3,
+      "id":"NULL",
+      "line":"I'm looking at clock, and it's already 9 A.M.",
+      "parameter":"0 ",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":4,
+      "id":"NULL",
+      "line":"Usually I'm at my desk working as a receptionist at some small company.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":5,
+      "id":"NULL",
+      "line":"But today I have the day-off, so I can do anything.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":6,
+      "id":"NULL",
+      "line":"Wonder what should I do this afternoon.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":7,
+      "id":"NULL",
+      "line":"I'll probably go out just to have lunch later.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":8,
+      "id":"NULL",
+      "line":"Where should I eat?",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":9,
+      "id":"NULL",
+      "line":"\"...\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":10,
+      "id":"NULL",
+      "line":"A certain place came up in my mind.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":11,
+      "id":"NULL",
+      "line":"No, not a place.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":12,
+      "id":"NULL",
+      "line":"But someone...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":13,
+      "id":"NULL",
+      "line":"\"But... Would he want to see me again now?\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":14,
+      "id":"NULL",
+      "line":"\"He said he's looking forward to see me again.\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":15,
+      "id":"NULL",
+      "line":"\"Even though, I'm not sure what to do today...\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":16,
+      "id":"NULL",
+      "line":"Wait, what am I thinking? What does he had to do with this?",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":17,
+      "id":"NULL",
+      "line":"Seriously, what is wrong with me?",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":18,
+      "id":"NULL",
+      "line":"\"...\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":19,
+      "id":"NULL",
+      "line":"\"Should I go to cafe or not?\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":20,
+      "id":"F",
+      "line":"Selection",
+      "parameter":"2",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":21,
+      "id":"S",
+      "line":"\"Yes\"",
+      "parameter":"50",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":22,
+      "id":"S",
+      "line":"\"Not now.\"",
+      "parameter":"23",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":23,
+      "id":"NULL",
+      "line":"I just remember that I must take care of something at my place.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":24,
+      "id":"NULL",
+      "line":"I can't go out today, I'll just order something and have them delivered here for lunch.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":25,
+      "id":"NULL",
+      "line":"\"Yeah, that should be fine.\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":26,
+      "id":"NULL",
+      "line":"And so I decided to stay at my place, doing things I was suppose to be doing.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":27,
+      "id":"NULL",
+      "line":"...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":28,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"-1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":29,
+      "id":"NULL",
+      "line":"2 Months Later...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":30,
+      "id":"NULL",
+      "line":"I decided visit the cafe again.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":31,
+      "id":"NULL",
+      "line":"It's been a while since I go there.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":32,
+      "id":"NULL",
+      "line":"Many people on the way to go there now.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":33,
+      "id":"NULL",
+      "line":"\"Maybe the cafe became famous somehow.\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":34,
+      "id":"NULL",
+      "line":"I try to walk toward the entrance with a bit of effort.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":35,
+      "id":"NULL",
+      "line":"It's hard to get through this amount of peoples standing.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":36,
+      "id":"NULL",
+      "line":"And when I get there...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":37,
+      "id":"F",
+      "line":"Play_Music",
+      "parameter":"1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":38,
+      "id":"NULL",
+      "line":"Goosebumped, feeling that's so weird I can't even explain.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":39,
+      "id":"NULL",
+      "line":"I realize the cafe had been replaced with new building.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":40,
+      "id":"NULL",
+      "line":"My feet started to feel so heavy.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":41,
+      "id":"NULL",
+      "line":"It's like the ground is trying to pull me down.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":42,
+      "id":"NULL",
+      "line":"I gave in as the weight becoming too much for me to handle.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":43,
+      "id":"NULL",
+      "line":"The Cafe, 'Cafe Lajoie', is no more...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":44,
+      "id":"NULL",
+      "line":"Why does it has to close like this?",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":45,
+      "id":"NULL",
+      "line":"How come did I not know what happened?",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":46,
+      "id":"NULL",
+      "line":"Is there any way...?",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":47,
+      "id":"NULL",
+      "line":"I could fix it?",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":48,
+      "id":"NULL",
+      "line":"BAD END",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":49,
+      "id":"F",
+      "line":"Change_Scene_No_Pref",
+      "parameter":"1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":50,
+      "id":"NULL",
+      "line":"At heart, I'm not even too sure about this.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":51,
+      "id":"NULL",
+      "line":"I want to see him again.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":52,
+      "id":"NULL",
+      "line":"I just don't understand why.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":53,
+      "id":"NULL",
+      "line":"Could this be...?",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":54,
+      "id":"NULL",
+      "line":"\"...\"",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":55,
+      "id":"NULL",
+      "line":"And so I get myself ready to go outside",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":56,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"-1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":57,
+      "id":"NULL",
+      "line":"Next stop, the Shopping District.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":58,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":59,
+      "id":"NULL",
+      "line":"Without hesitation, I walked straight to the cafe.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":60,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"0",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":61,
+      "id":"F",
+      "line":"Play_Clip",
+      "parameter":"1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":62,
+      "id":"F",
+      "line":"Play_Music",
+      "parameter":"0",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":63,
+      "id":"Mizuo",
+      "line":"\"Welcome.\"",
+      "parameter":"2",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":64,
+      "id":"NULL",
+      "line":"A familiar face greets me as I entered the cafe.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":65,
+      "id":"Mizuo",
+      "line":"\"Ah, it's you, welcome back.\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":66,
+      "id":"NULL",
+      "line":"Even though I only came once here, he seem to recognize.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":67,
+      "id":"NULL",
+      "line":"I was afraid he wasn't going to welcome me let alone remember me.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":68,
+      "id":"Mizuo",
+      "line":"\"Come, let me take you to your seat.\"",
+      "parameter":"3",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":69,
+      "id":"NULL",
+      "line":"Willingly I allowed him to take me to my seat.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":70,
+      "id":"NULL",
+      "line":"I said nothing about it.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":71,
+      "id":"NULL",
+      "line":"I was expecting it.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":72,
+      "id":"NULL",
+      "line":"As I sit at the chair I was lead to, he handed me the menu just like last time I was here.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":73,
+      "id":"Mizuo",
+      "line":"\"Here you go.\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":74,
+      "id":"Mizuo",
+      "line":"\"Call me when you're ready to order.\"",
+      "parameter":"2",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":75,
+      "id":"NULL",
+      "line":"Just like last time, he left me and and stands waiting for me near the cashier.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":76,
+      "id":"NULL",
+      "line":"I open up the menu.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":77,
+      "id":"NULL",
+      "line":"...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":78,
+      "id":"NULL",
+      "line":"All I saw was the same list of food and drink just like before.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":79,
+      "id":"NULL",
+      "line":"Why bother giving me the menu then?",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":80,
+      "id":"Mizuo",
+      "line":"\"...\"",
+      "parameter":"3",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":81,
+      "id":"NULL",
+      "line":"After take a glance at the menu, I call him so he take my order.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":82,
+      "id":"Mizuo",
+      "line":"\"Okay, what will you have today?\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":83,
+      "id":"F",
+      "line":"Selection",
+      "parameter":"3",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":84,
+      "id":"S",
+      "line":"\"Omellete+ White Coffee\"",
+      "parameter":"94",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":85,
+      "id":"S",
+      "line":"\"Fried Rice + Orange Juice\"",
+      "parameter":"96",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":86,
+      "id":"S",
+      "line":"\"PANCAAAKE\"",
+      "parameter":"87",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":87,
+      "id":"Mizuo",
+      "line":"\"...\"",
+      "parameter":"3",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":88,
+      "id":"Mizuo",
+      "line":"\"You done?\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":89,
+      "id":"Mizuo",
+      "line":"\"You might want to order something else, we don't make pancakes just yet.\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":90,
+      "id":"Mizuo",
+      "line":"\"Besides, you don't want a certain ghost thief to capture you back stabbing, right?\"",
+      "parameter":"7",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":91,
+      "id":"NULL",
+      "line":"Ghost thief? Who in the world is that suppose to be?",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":92,
+      "id":"NULL",
+      "line":"Kidding aside, I think I managed to annoy him somehow.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":93,
+      "id":"F",
+      "line":"Jump_to_Line",
+      "parameter":"83",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":94,
+      "id":"Mizuo",
+      "line":"\"Omelette and White Coffee? Okay.\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":95,
+      "id":"F",
+      "line":"Jump_to_Line",
+      "parameter":"97",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":96,
+      "id":"Mizuo",
+      "line":"\"Fried Rice and Orange Juice? Okay.\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":97,
+      "id":"Mizuo",
+      "line":"\"I'll make your order now, so wait for a moment.\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":98,
+      "id":"NULL",
+      "line":"He left me as soon has he finished writing the order I made.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":99,
+      "id":"NULL",
+      "line":"Just like before...",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":100,
+      "id":"NULL",
+      "line":"I open my phone in effort to pre occupy myself.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":101,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"-1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":102,
+      "id":"NULL",
+      "line":"And so I wait...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":103,
+      "id":"NULL",
+      "line":"Just like before...",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":104,
+      "id":"NULL",
+      "line":"...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":105,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"0",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":106,
+      "id":"Mizuo",
+      "line":"\"Thank you for waiting.\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":107,
+      "id":"Mizuo",
+      "line":"\"Here's your food.\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":108,
+      "id":"NULL",
+      "line":"It didn't took him long to bring my food to the table, and set it up afterward",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":109,
+      "id":"Mizuo",
+      "line":"\"Enjoy the food while it still hot.\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":110,
+      "id":"NULL",
+      "line":"Then, I started eating the food.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":111,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"-1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":112,
+      "id":"NULL",
+      "line":"But somehow...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":113,
+      "id":"F",
+      "line":"Play_Music",
+      "parameter":"-1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":114,
+      "id":"NULL",
+      "line":"It didn't taste as good as before.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":115,
+      "id":"NULL",
+      "line":"I don't know what happened.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":116,
+      "id":"NULL",
+      "line":"Could it be just me?",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":117,
+      "id":"NULL",
+      "line":"...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":118,
+      "id":"NULL",
+      "line":"Nevertheless, I continue eating, and without realizing it, I finished the food.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":119,
+      "id":"NULL",
+      "line":"It felt weird, eating like this.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":120,
+      "id":"NULL",
+      "line":"I don't know what's wrong with me.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":121,
+      "id":"NULL",
+      "line":"Am I...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":122,
+      "id":"NULL",
+      "line":"Dissapointed...?",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":123,
+      "id":"Mizuo",
+      "line":"\"Hey...\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":124,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"0",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":125,
+      "id":"Mizuo",
+      "line":"\"You all right?\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":126,
+      "id":"F",
+      "line":"Play_Music",
+      "parameter":"0",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":127,
+      "id":"NULL",
+      "line":"Eh?",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":128,
+      "id":"NULL",
+      "line":"What happened?",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":129,
+      "id":"NULL",
+      "line":"Was I spacing out?",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":130,
+      "id":"NULL",
+      "line":"Mizuo is standing next to me, calling me out.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":131,
+      "id":"Mizuo",
+      "line":"\"Don't wanna pry around your personal space...\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":132,
+      "id":"Mizuo",
+      "line":"\"But I just couldn't ignore that you're somehow disturbed with something?\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":133,
+      "id":"Mizuo",
+      "line":"\"Could it be..\"",
+      "parameter":"2",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":134,
+      "id":"Mizuo",
+      "line":"\"Was my cooking bad?\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":135,
+      "id":"Mizuo",
+      "line":"\"Or maybe...\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":136,
+      "id":"Mizuo",
+      "line":"\"Something happened that you wanna talk about?\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":137,
+      "id":"NULL",
+      "line":"There he is again, reading my mind.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":138,
+      "id":"F",
+      "line":"Play_Music",
+      "parameter":"-1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":139,
+      "id":"NULL",
+      "line":"But...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":140,
+      "id":"NULL",
+      "line":"He is not wrong, couldn't be more correct.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":141,
+      "id":"NULL",
+      "line":"It wasn't his cooking, it's me.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":142,
+      "id":"NULL",
+      "line":"It has been a tough week for me, working in a accounting firm.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":143,
+      "id":"NULL",
+      "line":"I don't have anyone to talk about my problems.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":144,
+      "id":"NULL",
+      "line":"Maybe, just maybe...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":145,
+      "id":"NULL",
+      "line":"...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":146,
+      "id":"Mizuo",
+      "line":"\"What's wrong?\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":147,
+      "id":"F",
+      "line":"Selection",
+      "parameter":"2",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":148,
+      "id":"S",
+      "line":"Tell him",
+      "parameter":"187",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":149,
+      "id":"S",
+      "line":"Don't tell him",
+      "parameter":"150",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":150,
+      "id":"NULL",
+      "line":"I decided not to talk about it with him.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":151,
+      "id":"NULL",
+      "line":"I don't want to burden him with my problems.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":152,
+      "id":"NULL",
+      "line":"And yet...",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":153,
+      "id":"Mizuo",
+      "line":"\"Well.\"",
+      "parameter":"2",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":154,
+      "id":"Mizuo",
+      "line":"\"It's okay if you don't want to share it with me.\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":155,
+      "id":"Mizuo",
+      "line":"\"I mean, we barely know each other.\"",
+      "parameter":"3",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":156,
+      "id":"Mizuo",
+      "line":"\"But just to let you know...\"",
+      "parameter":"3",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":157,
+      "id":"Mizuo",
+      "line":"\"If you ever need someone to listen what you have to say...\"",
+      "parameter":"2",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":158,
+      "id":"Mizuo",
+      "line":"\"I'm all ear.\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":159,
+      "id":"NULL",
+      "line":"...",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":160,
+      "id":"F",
+      "line":"Play_Music",
+      "parameter":"1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":161,
+      "id":"NULL",
+      "line":"Why?",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":162,
+      "id":"NULL",
+      "line":"Why are you so kind?",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":163,
+      "id":"NULL",
+      "line":"Even though you barely know me...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":164,
+      "id":"NULL",
+      "line":"Even though I decided not to tell you...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":165,
+      "id":"NULL",
+      "line":"So why...?",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":166,
+      "id":"Mizuo",
+      "line":"\"...\"",
+      "parameter":"2",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":167,
+      "id":"Mizuo",
+      "line":"\"Well, I'll leave you for now.\"",
+      "parameter":"3",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":168,
+      "id":"NULL",
+      "line":"No, please don't leave me, was the word I wanted to say.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":169,
+      "id":"NULL",
+      "line":"If only I had the courage to say it...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":170,
+      "id":"NULL",
+      "line":"If only...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":171,
+      "id":"F",
+      "line":"Selection",
+      "parameter":"2",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":172,
+      "id":"S",
+      "line":"Let him go",
+      "parameter":"174",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":173,
+      "id":"S",
+      "line":"Stop him",
+      "parameter":"183",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":174,
+      "id":"F",
+      "line":"Play_Music",
+      "parameter":"-1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":175,
+      "id":"NULL",
+      "line":"In the end, I couldn't do anything...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":176,
+      "id":"NULL",
+      "line":"...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":177,
+      "id":"NULL",
+      "line":"I walk towards the cashier to pay my bill, and then headed towards the entrance.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":178,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"-1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":179,
+      "id":"NULL",
+      "line":"Go back to my apaterment, that was all what I have in my head.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":180,
+      "id":"NULL",
+      "line":"And so, I ended my day.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":181,
+      "id":"NULL",
+      "line":"...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":182,
+      "id":"F",
+      "line":"Jump_to_Line",
+      "parameter":"29",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":183,
+      "id":"NULL",
+      "line":"My hand...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":184,
+      "id":"NULL",
+      "line":"Subconsciously grabbing his hand, trying to stop him from leaving.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":185,
+      "id":"Mizuo",
+      "line":"\"...\"",
+      "parameter":"4",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":186,
+      "id":"F",
+      "line":"Jump_to_Line",
+      "parameter":"194",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":187,
+      "id":"NULL",
+      "line":"...",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":188,
+      "id":"F",
+      "line":"Play_Music",
+      "parameter":"1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":189,
+      "id":"NULL",
+      "line":"Why?",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":190,
+      "id":"NULL",
+      "line":"Why are you so kind?",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":191,
+      "id":"NULL",
+      "line":"Even though you barely know me...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":192,
+      "id":"NULL",
+      "line":"So why...?",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":193,
+      "id":"Mizuo",
+      "line":"\"Ah...\"",
+      "parameter":"4",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":194,
+      "id":"Mizuo",
+      "line":"\"So there was something you wanted to talk about...\"",
+      "parameter":"4",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":195,
+      "id":"Mizuo",
+      "line":"\"Welp...\"",
+      "parameter":"3",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":196,
+      "id":"NULL",
+      "line":"Mizuo sits in  at the chair in front of me.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":197,
+      "id":"Mizuo",
+      "line":"\"So, what is it that you want to talk about?\"",
+      "parameter":"4",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":198,
+      "id":"Mizuo",
+      "line":"\"It's okay, I'll listen to anything you want to say.\"",
+      "parameter":"8",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":199,
+      "id":"NULL",
+      "line":"...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":200,
+      "id":"NULL",
+      "line":"For the first time, he smiled.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":201,
+      "id":"NULL",
+      "line":"Not in a sarcastic way.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":202,
+      "id":"NULL",
+      "line":"It's somehow comforting...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":203,
+      "id":"F",
+      "line":"Play_Music",
+      "parameter":"-1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":204,
+      "id":"NULL",
+      "line":"...",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":205,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"-1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":206,
+      "id":"NULL",
+      "line":"And so we started talking to each other.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":207,
+      "id":"NULL",
+      "line":"No, it's mostly me festing up my frustrations to Mizuo.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":208,
+      "id":"NULL",
+      "line":"He patiently listens to me ranting out.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":209,
+      "id":"NULL",
+      "line":"Though in some part of my heart, I know it's a bad thing to lash out on some one.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":210,
+      "id":"NULL",
+      "line":"I just couldn't help myself.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":211,
+      "id":"NULL",
+      "line":"...",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":212,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"0",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":213,
+      "id":"Mizuo",
+      "line":"\"I see...\"",
+      "parameter":"2",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":214,
+      "id":"Mizuo",
+      "line":"\"Well, for starter I'll say this to you.\"",
+      "parameter":"3",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":215,
+      "id":"Mizuo",
+      "line":"\"It's perfectly fine for you to feel like that.\"",
+      "parameter":"8",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":216,
+      "id":"Mizuo",
+      "line":"\"Peoples these days tend to lie to themselves about these kinds of things.\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":217,
+      "id":"Mizuo",
+      "line":"\"I think it's better if you just be more honest with your feelings.\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":218,
+      "id":"Mizuo",
+      "line":"\"It's a tough world out there, people can be unforgiving at times.\"",
+      "parameter":"3",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":219,
+      "id":"Mizuo",
+      "line":"\"But as long as you keep looking forward, everything's gonna be fine.\"",
+      "parameter":"8",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":220,
+      "id":"NULL",
+      "line":"To be honest, I didn't catch what he was talking at the end.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":221,
+      "id":"NULL",
+      "line":"Despite that, for the first time since a long time...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":222,
+      "id":"NULL",
+      "line":"I felt comfortable, talking to someone.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":223,
+      "id":"NULL",
+      "line":"I didn't have to put up the mask I use everyday.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":224,
+      "id":"NULL",
+      "line":"It's a bliss, to feel this sense of security.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":225,
+      "id":"NULL",
+      "line":"...",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":226,
+      "id":"NULL",
+      "line":"I wonder what he is feeling right now.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":227,
+      "id":"Mizuo",
+      "line":"\"So, how do you feel right now?\"",
+      "parameter":"8",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":228,
+      "id":"F",
+      "line":"Selection",
+      "parameter":"2",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":229,
+      "id":"S",
+      "line":"\"I'm good.\"",
+      "parameter":"235",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":230,
+      "id":"S",
+      "line":"\"...\"",
+      "parameter":"231",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":231,
+      "id":"Mizuo",
+      "line":"\"...\"",
+      "parameter":"8",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":232,
+      "id":"NULL",
+      "line":"He just keep smiling to me, waiting for my respond.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":233,
+      "id":"NULL",
+      "line":"I wasn't able to say anything.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":234,
+      "id":"F",
+      "line":"Jump_to_Line",
+      "parameter":"237",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":235,
+      "id":"Mizuo",
+      "line":"\"Feel better now? That good.\"",
+      "parameter":"9",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":236,
+      "id":"Mizuo",
+      "line":"\"...\"",
+      "parameter":"9",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":237,
+      "id":"Mizuo",
+      "line":"\"...\"",
+      "parameter":"4",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":238,
+      "id":"NULL",
+      "line":"Mizuo's smile suddenly faded, and went back to his normal expression.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":239,
+      "id":"NULL",
+      "line":"No, this one is a bit tense.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":240,
+      "id":"Mizuo",
+      "line":"\"Hey.\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":241,
+      "id":"Mizuo",
+      "line":"\"I wasn't going to tell this to anyone.\"",
+      "parameter":"2",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":242,
+      "id":"Mizuo",
+      "line":"\"But, I guess telling it to you is  okay.\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":243,
+      "id":"NULL",
+      "line":"He has something to say to me.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":244,
+      "id":"Mizuo",
+      "line":"\"You might want to stop coming here.\"",
+      "parameter":"2",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":245,
+      "id":"Mizuo",
+      "line":"\"It may not be to shocking for you...\"",
+      "parameter":"3",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":246,
+      "id":"Mizuo",
+      "line":"\"This cafe haven't had a lot of customers lately.\"",
+      "parameter":"3",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":247,
+      "id":"Mizuo",
+      "line":"\"No, we never had a lot of customers coming in.\"",
+      "parameter":"2",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":248,
+      "id":"Mizuo",
+      "line":"\"And so, the management told me that we're closing in the coming months.\"",
+      "parameter":"2",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":249,
+      "id":"NULL",
+      "line":"What?",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":250,
+      "id":"NULL",
+      "line":"Why?",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":251,
+      "id":"NULL",
+      "line":"This is too sudden...",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":252,
+      "id":"Mizuo",
+      "line":"\"Well, if things don't turn around soon.\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":253,
+      "id":"Mizuo",
+      "line":"\"I'm afraid you won't be able to eat here anymore.\"",
+      "parameter":"3",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":254,
+      "id":"NULL",
+      "line":"But why?",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":255,
+      "id":"NULL",
+      "line":"I had a good time eating here...",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":256,
+      "id":"Mizuo",
+      "line":"\"Ah, my bad.\"",
+      "parameter":"2",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":257,
+      "id":"Mizuo",
+      "line":"\"I have to go now.\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":258,
+      "id":"Mizuo",
+      "line":"\"Sorry about earlier, kinda killed the mood there.\"",
+      "parameter":"3",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":259,
+      "id":"Mizuo",
+      "line":"\"I'm off now...\"",
+      "parameter":"2",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":260,
+      "id":"NULL",
+      "line":"...",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":261,
+      "id":"NULL",
+      "line":"There's nothing left to do here, might as well go to the cashier now and head back home.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":262,
+      "id":"NULL",
+      "line":"...",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":263,
+      "id":"Mizuo",
+      "line":"\"...\"",
+      "parameter":"2",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":264,
+      "id":"NULL",
+      "line":"As I walk toward the cashier, just like before, I saw Mizuo standing in the kitchen through a window just behind the cashier.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":265,
+      "id":"Mizuo",
+      "line":"\"...\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":266,
+      "id":"NULL",
+      "line":"Just like before, he noticed me standing in front of the cashier.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":267,
+      "id":"Mizuo",
+      "line":"\"Hey.\"",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":268,
+      "id":"NULL",
+      "line":"...",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":269,
+      "id":"Mizuo",
+      "line":"\"Thank you for coming today, see you soon.\"",
+      "parameter":"8",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":270,
+      "id":"NULL",
+      "line":"As he said his farewell, smiling, I walk towards the entrance door.",
+      "parameter":"0",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":271,
+      "id":"NULL",
+      "line":"This could be my last time here, yet I can't do anything.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":272,
+      "id":"NULL",
+      "line":"This could be my last time here, yet I can't do anything.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":273,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":274,
+      "id":"F",
+      "line":"Fade_BG",
+      "parameter":"1",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":275,
+      "id":"NULL",
+      "line":"As I take a step outside, I start to wonder.",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":276,
+      "id":"NULL",
+      "line":"...",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":277,
+      "id":"NULL",
+      "line":"Can I really help him?",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":278,
+      "id":"F",
+      "line":"Selection",
+      "parameter":"2",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":279,
+      "id":"S",
+      "line":"No, you can't",
+      "parameter":"281",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":280,
+      "id":"S",
+      "line":"Yes, you can",
+      "parameter":"283",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":281,
+      "id":"NULL",
+      "line":"...",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":282,
+      "id":"F",
+      "line":"Jump_to_Line",
+      "parameter":"287",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":283,
+      "id":"NULL",
+      "line":"...",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":284,
+      "id":"CB",
+      "line":"MizuoMissionStart",
+      "parameter":"1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":285,
+      "id":"F",
+      "line":"Play_Clip_No_Wait",
+      "parameter":"0",
+      "functionTrue":true
+   },
+   {
+      "lineIndex":286,
+      "id":"NULL",
+      "line":"Play High and Low in Free Mode to unlock next chapter",
+      "parameter":"-1",
+      "functionTrue":false
+   },
+   {
+      "lineIndex":287,
+      "id":"F",
+      "line":"Change_Scene_No_Pref",
+      "parameter":"1",
+      "functionTrue":true
+   }
+]
